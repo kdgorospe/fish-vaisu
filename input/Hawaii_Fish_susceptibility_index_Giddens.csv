@@ -1,0 +1,369 @@
+ident,Family,SpeciesCode,Species,Zoogeog,Targeted,Trophic7,Trophic9,Trophic5,Consumer,Endemic,Mobility,MaxSize,Vulnerable_body_size,"Diet specialization susceptibility (0=none, 1=slight, 2=high)",Climate_susceptibility,Average of Troph
+1,Pomacentridae,ABAB,Abudefduf abdominalis,8,N,Z,Z,Z,SECONDARY,E,S1,20,FALSE,1,Very low,3.01
+2,Pomacentridae,ABSO,Abudefduf sordidus,2,N,H,Hother,H,PRIMARY,I,S1,20,FALSE,0,Negligible,2.79
+3,Pomacentridae,ABVA,Abudefduf vaigiensis,2,N,Z,Z,Z,SECONDARY,I,S1,17,FALSE,1,Very low,2.59
+4,Acanthuridae,ACAC,Acanthurus achilles,2,Y,H,Hgd,H,PRIMARY,I,S1,45,FALSE,0,Negligible,2
+5,Acanthuridae,ACBL,Acanthurus blochii,2,Y,H,Hgd,H,PRIMARY,I,S2,35,FALSE,0,Negligible,2
+6,Acanthuridae,ACDU,Acanthurus dussumieri,2,Y,H,Hgd,H,PRIMARY,I,S2,50,FALSE,0,Negligible,2
+7,Acanthuridae,ACGU,Acanthurus guttatus,2,Y,H,Hgd,H,PRIMARY,I,S2,25,FALSE,0,Negligible,2
+8,Acanthuridae,ACLE,Acanthurus leucopareius,5,Y,H,Hgd,H,PRIMARY,I,S2,23,FALSE,0,Negligible,2
+9,Acanthuridae,,Acanthurus lineatus,2,Y,H,Hother,H,PRIMARY,I,S1,33,FALSE,0,Negligible,2
+10,Acanthuridae,,Acanthurus maculiceps,2,Y,H,Hother,H,PRIMARY,I,S1,40,FALSE,0,Negligible,2
+11,Acanthuridae,ACNC,Acanthurus nigricans,2,Y,H,Hgd,H,PRIMARY,I,S1,21,FALSE,0,Negligible,2
+12,Acanthuridae,ACNF,Acanthurus nigrofuscus,2,N,H,Hgd,H,PRIMARY,I,S1,20,FALSE,0,Negligible,2
+13,Acanthuridae,ACNR,Acanthurus nigroris,2,Y,H,Hgd,H,PRIMARY,I,S2,20,FALSE,0,Negligible,2
+14,Acanthuridae,ACOL,Acanthurus olivaceus,2,Y,H,Hgd,H,PRIMARY,I,S2,30,FALSE,0,Negligible,2.2
+15,Acanthuridae,ACSP,Acanthurus species,2,N,H,Hother,H,PRIMARY,I,S1,60,FALSE,0,Negligible,2
+16,Acanthuridae,ACTH,Acanthurus thompsoni,2,N,Z,Z,Z,SECONDARY,I,S1,20,FALSE,1,Very low,3.41
+17,Acanthuridae,ACTR,Acanthurus triostegus,2,Y,H,Hgd,H,PRIMARY,I,S2,22,FALSE,0,Negligible,2.8
+18,Acanthuridae,ACXA,Acanthurus xanthopterus,2,Y,H,Hgd,H,PRIMARY,I,S2,55,FALSE,0,Negligible,2.9
+19,Mobulidae,ATNA,Aetobatus narinari,1,N,MI,MI,S,SECONDARY,I,T,220,FALSE,0,Negligible,3.37
+20,Albulidae,ALGL,Albula glossodonta,2,Y,MI,MI,S,SECONDARY,I,T,90,FALSE,0,Negligible,3.5
+21,Carangidae,,Alectis ciliaris,1,Y,P,P,APEX,PRIMARY,I,T,90,FALSE,1,Very low,3.82
+22,Monacanthidae,ALSC,Aluterus scriptus,1,Y,H,Hother,H,PRIMARY,I,S2,100,FALSE,0,Negligible,2.76
+23,Cirrhitidae,AMBI,Amblycirrhitus bimacula,2,N,MI,MI,S,SECONDARY,I,R,8,TRUE,0,Medium,3.59
+24,Ammodytidae,,Ammodytoides pylei,8,N,SI,SI,S,SECONDARY,E,S2,100,FALSE,0,Negligible,3.4
+25,Labridae,ANCH,Anampses chrysocephalus,8,N,MI,MI,S,SECONDARY,E,S1,20,FALSE,0,Negligible,3.5
+26,Labridae,ANCU,Anampses cuvier,8,Y,MI,MI,S,SECONDARY,E,S1,35,FALSE,0,Negligible,3.38
+27,Labridae,,Anampses species,8,N,MI,MI,S,SECONDARY,E,S1,40,FALSE,0,Negligible,3.4
+28,Antennariidae,ANCO,Antennarius commersoni,2,N,P,P,P,SECONDARY,I,R,60,FALSE,1,Very low,4.2
+29,Antennariidae,ANDR,Antennarius drombus,8,N,P,P,P,SECONDARY,E,R,60,FALSE,1,Very low,4.2
+30,Anthias (Serranid),,Anthias species,8,N,Z,Z,Z,SECONDARY,E,S1,10,TRUE,1,High,3.4
+31,Lutjanidae,APFU,Aphareus furca,2,Y,P,P,P,SECONDARY,I,T,35,FALSE,1,Very low,4.1
+32,Apogonidae,APER,Apogon erythrinus,8,N,MI,MI,S,SECONDARY,E,R,10,TRUE,0,Medium,3.5
+33,Apogonidae,APKA,Apogon kallopterus,2,N,MI,MI,S,SECONDARY,I,R,12,TRUE,0,Medium,3.535
+34,Apogonidae,APMA,Apogon maculiferus,8,N,MI,MI,S,SECONDARY,E,R,20,FALSE,0,Negligible,3.54
+35,Apogonidae,,Apogon species,2,N,MI,MI,S,SECONDARY,I,R,10,TRUE,0,Medium,3.5
+36,Apogonidae,APPE,Apogonichthys perdix,2,N,MI,MI,S,SECONDARY,I,R,4,TRUE,0,Medium,3.5
+37,Pomacanthidae,DEAR,Apolemichthys arcuatus,8,N,SI,SI,S,SECONDARY,E,S1,25,FALSE,0,Negligible,2.91
+38,Lutjanidae,APVI,Aprion virescens,2,Y,P,P,APEX,APEX,I,T,100,FALSE,1,Very low,4.205
+39,Congridae,,Ariosoma fasciatum,2,N,P,P,S,SECONDARY,I,R,60,FALSE,1,Very low,4.4
+40,Tetraodontidae,ARHI,Arothron hispidus,2,N,MI,MI,S,SECONDARY,I,S1,45,FALSE,0,Negligible,3.15
+41,Tetraodontidae,ARME,Arothron meleagris,2,N,C,C,S,SECONDARY,I,S1,45,FALSE,2,Low,3.38
+42,Gobiidae,ASSE,Asterropteryx semipunctatus,2,N,SI,SI,S,SECONDARY,I,S1,6,TRUE,0,Medium,2.1
+43,Atherinidae,ATIN,Atherinomorus insularum,8,N,Z,Z,Z,SECONDARY,E,T,10,TRUE,1,High,3.15
+44,Aulostomidae,AUCH,Aulostomus chinensis,2,N,P,P,P,SECONDARY,I,S2,65,FALSE,1,Very low,4.2
+45,Balistidae,BAPO,Balistes polylepis,7,N,MI,MI,S,SECONDARY,I,T,80,FALSE,0,Negligible,3.3
+46,Balistidae,,Balistes species,2,N,MI,MI,S,SECONDARY,I,S2,61,FALSE,0,Negligible,3.3
+47,Gobiidae,,Bathygobius cocosensis,2,N,SI,SI,S,SECONDARY,I,R,10,TRUE,0,Medium,2.1
+48,Belonidae,,Belonidae species,2,N,P,P,P,SECONDARY,I,T,20,FALSE,1,Very low,4.5
+49,Blenniidae,BLGI,Blenniella gibbifrons,2,N,H,Hother,H,PRIMARY,I,R,12,TRUE,0,Medium,2
+50,Blenniidae,BLSP,Blenniidae species,2,N,H,Hother,H,PRIMARY,I,R,15,TRUE,0,Medium,2
+51,Labridae,BOBI,Bodianus albotaeniatus,8,Y,MI,MI,S,SECONDARY,E,S2,50,FALSE,0,Negligible,3.4
+52,Bothidae,BOMA,Bothus mancus,2,N,MI,MI,S,SECONDARY,I,S1,45,FALSE,0,Negligible,4.38
+53,Bothidae,BOPA,Bothus pantherinus,2,N,MI,MI,S,SECONDARY,I,S1,40,FALSE,0,Negligible,4.38
+54,Bothidae,,Bothus species,2,N,MI,MI,S,SECONDARY,I,S1,20,FALSE,0,Negligible,4.38
+55,Ophidiidae,BRMU,Brotula multibarbata,2,N,MI,MI,S,SECONDARY,I,S1,35,FALSE,0,Negligible,3.67
+56,Callionymidae,,Callionymus comptus,8,N,MI,MI,S,SECONDARY,E,S1,7,TRUE,0,Medium,3.3
+57,Callionymidae,CADE,Callionymus decoratus,8,N,MI,MI,S,SECONDARY,E,S1,7,TRUE,0,Medium,3.3
+59,Scaridae,CACA,Calotomus carolinus,2,Y,H,Hbrow,H,PRIMARY,I,S2,55,FALSE,0,Negligible,2
+58,Scaridae,,Calotomus species,2,Y,H,Hother,H,SECONDARY,I,S2,60,FALSE,0,Negligible,2
+60,Scaridae,CAZO,Calotomus zonarchus,8,Y,H,Hbrow,H,PRIMARY,E,S2,50,FALSE,0,Negligible,2
+61,Monacanthidae,CADU,Cantherhines dumerilii,2,N,C,C,S,SECONDARY,I,S1,35,FALSE,2,Low,3.1
+62,Monacanthidae,CASA,Cantherhines sandwichiensis,8,N,H,Hother,H,PRIMARY,E,S1,40,FALSE,0,Negligible,3.1
+63,Monacanthidae,CAVE,Cantherhines verecundus,8,N,H,Hother,H,PRIMARY,E,S1,40,FALSE,0,Negligible,3.1
+64,Balistidae,CAMA,Canthidermis maculatus,1,N,Z,Z,Z,SECONDARY,I,H,50,FALSE,1,Very low,3.3
+65,Tetraodontidae,CAAM,Canthigaster amboinensis,2,N,H,Hother,H,PRIMARY,I,S1,12,TRUE,0,Medium,2.685
+66,Tetraodontidae,CACO,Canthigaster coronata,2,N,SI,SI,S,SECONDARY,I,S1,12,TRUE,0,Medium,3.1
+67,Tetraodontidae,CAEP,Canthigaster epilampra,2,N,MI,MI,S,SECONDARY,I,S1,10,TRUE,0,Medium,3.1
+68,Tetraodontidae,CAJA,Canthigaster jactator,8,N,H,Hother,H,PRIMARY,E,S1,9,TRUE,0,Medium,2.885
+69,Tetraodontidae,CARI,Canthigaster rivulata,2,N,H,Hother,H,PRIMARY,I,S1,13,TRUE,0,Medium,2.885
+70,Tetraodontidae,,Canthigaster solandri,2,N,H,Hother,H,PRIMARY,I,S1,11,TRUE,0,Medium,2.885
+71,Tetradontidae,,Canthigaster species,2,N,H,Hother,H,PRIMARY,I,S1,15,TRUE,0,Medium,2.885
+72,Caracanthidae,CATY,Caracanthus typicus,8,N,MI,MI,S,SECONDARY,E,R,5,TRUE,0,Medium,3
+73,Carangidae,CAFE,Carangoides ferdau,2,Y,MI,MI,APEX,SECONDARY,I,T,70,FALSE,1,Very low,4.26
+74,Carangidae,CAOR,Carangoides orthogrammus,2,Y,P,P,APEX,APEX,I,T,70,FALSE,1,Very low,4.48
+75,Carangidae,CAIG,Caranx ignobilis,2,Y,P,P,APEX,APEX,I,T,140,FALSE,1,Very low,4.095
+76,Carangidae,CALU,Caranx lugubris,1,Y,P,P,APEX,APEX,I,T,90,FALSE,1,Very low,4.5
+77,Carangidae,CAME,Caranx melampygus,2,Y,P,P,APEX,APEX,I,T,75,FALSE,1,Very low,4.485
+78,Carangidae,CASE,Caranx sexfasciatus,2,Y,P,P,APEX,APEX,I,T,80,FALSE,1,Very low,4.5
+79,Carangidae,,Caranx species,2,Y,P,P,APEX,APEX,I,T,165,FALSE,1,Very low,4.5
+80,Carcharhinidae,CAAB,Carcharhinus amblyrhynchos,2,Y,P,P,APEX,APEX,I,T,250,FALSE,1,Very low,4.255
+81,Carcharhinidae,CAGA,Carcharhinus galapagensis,1,Y,P,P,APEX,APEX,I,T,370,FALSE,1,Very low,4.23
+82,Carcharhinidae,CAML,Carcharhinus melanopterus,2,Y,P,P,APEX,APEX,I,T,180,FALSE,1,Very low,4.22
+83,Pomacanthidae,CEFI,Centropyge fisheri,2,N,H,Hother,H,PRIMARY,I,S1,8,TRUE,0,Medium,2.8
+84,Pomacanthidae,CEFL,Centropyge flavissima,7,N,H,Hother,H,PRIMARY,X,R,12,TRUE,0,Medium,2.8
+85,Pomacanthidae,,Centropyge interrupta,4,N,H,Hother,H,PRIMARY,I,R,15,TRUE,0,Medium,2.8
+86,Pomacanthidae,CELO,Centropyge loriculus,2,N,H,Hother,H,PRIMARY,I,R,10,TRUE,0,Medium,2.8
+87,Pomacanthidae,CEPO,Centropyge potteri,8,N,H,Hother,H,PRIMARY,E,R,15,TRUE,0,Medium,2.8
+88,Serranidae,CEAR,Cephalopholis argus,2,Y,P,P,P,APEX,X,S1,50,FALSE,1,Very low,4.48
+89,Chaetodontidae,CHAU,Chaetodon auriga,2,N,SI,SI,S,SECONDARY,I,S1,23,FALSE,0,Negligible,3.1975
+90,Chaetodontidae,CHCI,Chaetodon citrinellus,2,N,C,C,S,SECONDARY,I,S1,11,TRUE,2,Very high,3.046666667
+91,Chaetodontidae,CHEP,Chaetodon ephippium,2,N,MI,MI,S,SECONDARY,I,S1,23,FALSE,0,Negligible,3.12
+92,Chaetodontidae,CHFR,Chaetodon fremblii,8,N,SI,SI,S,SECONDARY,E,S1,15,TRUE,0,Medium,2.99
+93,Chaetodontidae,CHKL,Chaetodon kleinii,2,N,Z,Z,Z,SECONDARY,I,S1,11,TRUE,1,High,3.02
+94,Chaetodontidae,CHLI,Chaetodon lineolatus,2,N,SI,SI,S,SECONDARY,I,S1,31,FALSE,0,Negligible,3.34
+95,Chaetodontidae,CHLU,Chaetodon lunula,2,N,SI,SI,S,SECONDARY,I,S1,21,FALSE,0,Negligible,3.235
+96,Chaetodontidae,CHLT,Chaetodon lunulatus,2,N,C,C,S,SECONDARY,I,S1,14,TRUE,2,Very high,3.235
+97,Chaetodontidae,CHMI,Chaetodon miliaris,8,N,Z,Z,Z,SECONDARY,E,S1,16,TRUE,1,High,3.03
+98,Chaetodontidae,CHMU,Chaetodon multicinctus,8,N,C,C,S,SECONDARY,E,S1,15,TRUE,2,Very high,3.32
+99,Chaetodontidae,CHOR,Chaetodon ornatissimus,2,N,C,C,S,SECONDARY,I,S1,18,TRUE,2,Very high,3.32
+100,Chaetodontidae,CHQU,Chaetodon quadrimaculatus,5,N,C,C,S,SECONDARY,I,S1,16,TRUE,2,Very high,3.29
+101,Chaetodontidae,CHRE,Chaetodon reticulatus,2,N,C,C,S,SECONDARY,I,S1,17,TRUE,2,Very high,3.29
+102,Chaetodontidae,CHTI,Chaetodon tinkeri,6,N,SI,SI,S,SECONDARY,I,S1,20,FALSE,0,Negligible,3.29
+103,Chaetodontidae,CHTR,Chaetodon trifascialis,2,N,C,C,S,SECONDARY,I,S1,16,TRUE,2,Very high,3.34
+104,Chaetodontidae,CHUN,Chaetodon unimaculatus,2,N,C,C,S,SECONDARY,I,S1,20,FALSE,2,Low,3.195
+105,Chanidae,CHCH,Chanos chanos,2,Y,H,Hother,H,PRIMARY,I,T,120,FALSE,0,Negligible,2.043333333
+106,Labridae,CHIN,Cheilio inermis,2,Y,MI,MI,S,SECONDARY,I,S2,48,FALSE,0,Negligible,4.04
+108,Scaridae,CHPE,Chlorurus perspicillatus,8,Y,H,Hscex,H,PRIMARY,E,S2,65,FALSE,0,Negligible,2
+109,Scaridae,,Chlorurus species,2,Y,H,Hother,H,PRIMARY,I,S2,60,FALSE,0,Negligible,2
+110,Scaridae,CHSO,Chlorurus spilurus,2,Y,H,Hscex,H,PRIMARY,I,S2,33,FALSE,0,Negligible,2
+111,Pomacentridae,CHAC,Chromis acares,2,N,Z,Z,Z,SECONDARY,I,R,7,TRUE,1,High,3.1
+112,Pomacentridae,CHAG,Chromis agilis,2,N,Z,Z,Z,SECONDARY,I,R,8,TRUE,1,High,3.1
+113,Pomacentridae,CHHA,Chromis hanui,8,N,Z,Z,Z,SECONDARY,E,R,10,TRUE,1,High,3.1
+114,Pomacentridae,,Chromis leucura,2,N,Z,Z,Z,SECONDARY,I,R,8,TRUE,1,High,3.11
+115,Pomacentridae,CHOV,Chromis ovalis,8,N,Z,Z,Z,SECONDARY,E,R,10,TRUE,1,High,3.12
+116,Pomacentridae,CHVA,Chromis vanderbilti,2,N,Z,Z,Z,SECONDARY,I,R,6,TRUE,1,High,3.18
+117,Pomacentridae,CHVE,Chromis verater,8,N,Z,Z,Z,SECONDARY,E,R,10,TRUE,1,High,3.2
+118,Labridae,CIJO,Cirrhilabrus jordani,8,N,Z,Z,Z,SECONDARY,E,S1,10,TRUE,1,High,3.4
+119,Cirrhitidae,CIFA,Cirrhitops fasciatus,5,N,MI,MI,S,SECONDARY,I,R,13,TRUE,0,Medium,3.56
+120,Cirrhitidae,CIPI,Cirrhitus pinnulatus,2,N,MI,MI,S,SECONDARY,I,S1,30,FALSE,0,Negligible,3.53
+121,Blenniidae,CIOB,Cirripectes obscurus,8,N,H,Hother,H,PRIMARY,E,R,10,TRUE,0,Medium,2
+122,Blenniidae,,Cirripectes species,8,N,H,Hother,H,PRIMARY,I,R,10,TRUE,0,Medium,2
+123,Blenniidae,CIVA,Cirripectes vanderbilti,8,N,H,Hother,H,PRIMARY,E,R,11,TRUE,0,Medium,2
+124,Congridae,COCI,Conger cinereus marginatus,8,N,P,P,P,SECONDARY,I,R,130,FALSE,1,Very low,4.4
+125,Congridae,,Conger species,8,N,P,P,S,SECONDARY,I,R,110,FALSE,1,Very low,4.4
+126,Labridae,COBA,Coris ballieui,8,N,MI,MI,S,SECONDARY,E,S1,30,FALSE,0,Negligible,3.3
+127,Labridae,COFL,Coris flavovittata,8,Y,MI,MI,S,SECONDARY,E,S2,65,FALSE,0,Negligible,3.2
+128,Labridae,COGA,Coris gaimard,2,N,MI,MI,S,SECONDARY,I,S1,40,FALSE,0,Negligible,3.367142857
+129,Labridae,COVE,Coris venusta,8,N,MI,MI,S,SECONDARY,E,S1,20,FALSE,0,Negligible,3.31
+130,Gobiidae,CODU,Coryphopterus duospilus,2,N,H,Hother,H,PRIMARY,I,S1,10,TRUE,0,Medium,2.1
+131,Gobiidae,COSP,Coryphopterus species,2,N,H,Hother,H,PRIMARY,I,S1,8,TRUE,0,Medium,2.1
+132,Acanthuridae,CTHA,Ctenochaetus hawaiiensis,2,Y,D,D,S,SECONDARY,I,S1,25,FALSE,0,Negligible,2
+133,Acanthuridae,CTST,Ctenochaetus strigosus,8,Y,D,D,S,SECONDARY,I,S1,25,FALSE,0,Negligible,2
+134,Labridae,CYLE,Cymolutes lecluse,8,N,MI,MI,S,SECONDARY,E,S1,20,FALSE,0,Negligible,4.2
+135,Labridae,,Cymolutes praetextatus,2,N,MI,MI,S,SECONDARY,I,S1,12,TRUE,0,Medium,4.2
+136,Dactylopteridae,DAOR,Dactyloptena orientalis,2,N,MI,MI,S,SECONDARY,I,T,33,FALSE,0,Negligible,3.7
+137,Pomacentridae,DAAL,Dascyllus albisella,8,N,Z,Z,Z,SECONDARY,E,S1,15,TRUE,1,High,3.14
+138,Dasyatidae,,Dasyatis lata,8,N,MI,MI,S,SECONDARY,E,T,190,FALSE,0,Negligible,3.5
+139,Carangidae,DEMA,Decapterus macarellus,1,Y,Z,Z,Z,SECONDARY,I,T,35,FALSE,1,Very low,3.45
+140,Carangidae,DESP,Decapterus species,1,Y,Z,Z,Z,SECONDARY,I,T,35,FALSE,1,Very low,3.45
+141,Scorpaenidae,DEBA,Dendrochirus barberi,8,N,MI,MI,S,SECONDARY,E,R,12,TRUE,0,Medium,3.6
+142,Diodontidae,DIHO,Diodon holocanthus,1,N,MI,MI,S,SECONDARY,I,S1,35,FALSE,0,Negligible,3.34
+143,Diodontidae,DIHY,Diodon hystrix,1,N,MI,MI,S,SECONDARY,I,S1,70,FALSE,0,Negligible,3.3
+144,Syngnathidae,DOEX,Doryrhamphus excisus,2,N,Z,Z,Z,SECONDARY,I,S1,7,TRUE,1,High,3.5
+145,Echeneidae,,Echeneis naucrates,1,N,Z,Z,S,SECONDARY,I,T,95,FALSE,1,Very low,3.245
+146,Muraenidae,ECNE,Echidna nebulosa,2,N,MI,MI,S,SECONDARY,I,S1,75,FALSE,0,Negligible,4
+147,Carangidae,ELBI,Elagatis bipinnulata,1,Y,P,P,APEX,APEX,I,T,110,FALSE,1,Very low,3.6
+148,Elopidae,,Elops hawaiensis,1,N,MI,MI,S,SECONDARY,I,T,150,FALSE,0,Negligible,4
+149,Muraenidae,,Enchelycore pardalis,2,N,P,P,S,SECONDARY,I,R,80,FALSE,1,Very low,4.5
+150,Muraenidae,ENCA,Enchelynassa canina,2,N,P,P,P,SECONDARY,I,R,150,FALSE,1,Very low,4.5
+151,Engraulidae,,Encrasicholina purpurea,8,N,Z,Z,Z,SECONDARY,E,T,10,TRUE,1,High,3.3
+152,Tripterygiidae,ENAT,Enneapterygius atriceps,8,N,H,Hother,H,PRIMARY,E,S1,5,TRUE,0,Medium,2
+153,Blenniidae,ENMA,Entomacrodus marmoratus,8,N,H,Hother,H,PRIMARY,E,R,20,FALSE,0,Negligible,2
+154,Labridae,EPIN,Epibulus insidiator,2,N,MI,MI,S,SECONDARY,I,S2,35,FALSE,0,Negligible,3.75
+155,Serranidae,EPQU,Epinephelus quernus,8,Y,P,P,APEX,APEX,E,S1,125,FALSE,1,Very low,4.6
+156,Scombridae,EUAF,Euthynnus affinis,2,Y,P,P,APEX,APEX,I,T,90,FALSE,1,Very low,4.452857143
+157,Gobiidae,EVEP,Eviota epiphanes,2,N,H,Hother,H,PRIMARY,I,S1,5,TRUE,0,Medium,2.1
+158,Pentacerotidae,EVAC,Evistias acutirostris,5,Y,MI,MI,S,SECONDARY,I,T,90,FALSE,0,Negligible,3.5
+159,Blenniidae,EXBR,Exallias brevis,2,N,C,C,S,SECONDARY,I,R,12,TRUE,2,Very high,2
+160,Fistulariidae,FICO,Fistularia commersonii,2,Y,P,P,P,SECONDARY,I,S2,100,FALSE,1,Very low,4.26
+161,Apogonidae,FOBR,Foa brachygramma,8,N,MI,MI,S,SECONDARY,I,R,5,TRUE,0,Medium,3.51
+162,Chaetodontidae,FOFL,Forcipiger flavissimus,2,N,SI,SI,S,SECONDARY,I,S1,17,TRUE,0,Medium,3.085
+163,Chaetodontidae,FOLO,Forcipiger longirostris,2,N,MI,MI,S,SECONDARY,I,S1,17,TRUE,0,Medium,3.085
+164,Pomacanthidae,GEPE,Genicanthus personatus,8,N,Z,Z,Z,SECONDARY,E,S1,25,FALSE,1,Very low,3.4
+165,Carangidae,GNSP,Gnathanodon speciosus,2,Y,MI,MI,S,SECONDARY,I,T,110,FALSE,0,Negligible,3.8
+166,Gobiidae,GNAN,Gnatholepis anjerensis,2,N,H,Hother,H,PRIMARY,I,S1,10,TRUE,0,Medium,2.1
+167,Gobiidae,,Gnatholepis caurensis hawaiiensis,8,N,H,Hother,H,PRIMARY,E,S1,10,TRUE,0,Medium,2.1
+168,Gobiidae,GOSP,Gobiidae species,2,N,SI,SI,S,SECONDARY,I,S1,40,FALSE,0,Negligible,2.1
+169,Labridae,GOVA,Gomphosus varius,2,N,MI,MI,S,SECONDARY,I,S1,20,FALSE,0,Negligible,3.52
+107,Cheilodactylidae,CHVI,Goniistius vittatus,8,N,SI,SI,S,SECONDARY,E,S2,45,FALSE,0,Negligible,3.4
+171,Microdesmidae,GUCU,Gunnellichthys curiosus,2,N,Z,Z,Z,SECONDARY,I,S1,12,TRUE,1,High,3.3
+172,Muraenidae,GYZE,Gymnomuraena zebra,2,N,MI,MI,S,SECONDARY,I,R,150,FALSE,0,Negligible,4.5
+173,Muraenidae,GYEU,Gymnothorax eurostus,5,N,MI,MI,S,SECONDARY,I,R,57,FALSE,0,Negligible,4.5
+174,Muraenidae,GYFL,Gymnothorax flavimarginatus,2,N,P,P,P,SECONDARY,I,R,120,FALSE,1,Very low,4.5
+175,Muraenidae,,Gymnothorax javanicus,2,N,P,P,S,SECONDARY,I,R,230,FALSE,1,Very low,4.5
+176,Muraenidae,,Gymnothorax melatremus,2,N,MI,MI,S,SECONDARY,I,R,30,FALSE,0,Negligible,4.5
+177,Muraenidae,GYME,Gymnothorax meleagris,2,N,P,P,P,SECONDARY,I,R,120,FALSE,1,Very low,4.5
+178,Muraenidae,GYNU,Gymnothorax nudivomer,2,N,P,P,P,SECONDARY,I,R,180,FALSE,1,Very low,4.5
+179,Muraenidae,,Gymnothorax pictus,2,N,P,P,S,SECONDARY,I,R,120,FALSE,1,Very low,4.5
+180,Muraenidae,GYRU,Gymnothorax rueppelliae,2,N,MI,MI,S,SECONDARY,I,R,250,FALSE,0,Negligible,4.5
+181,Muraenidae,GYSP,Gymnothorax species,2,N,P,P,P,SECONDARY,I,R,300,FALSE,1,Very low,4.5
+182,Muraenidae,GYST,Gymnothorax steindachneri,8,N,P,P,P,SECONDARY,E,R,95,FALSE,1,Very low,4.5
+183,Muraenidae,GYUN,Gymnothorax undulatus,2,N,P,P,P,SECONDARY,I,R,150,FALSE,1,Very low,3.535
+184,Labridae,HAOR,Halichoeres ornatissimus,2,N,MI,MI,S,SECONDARY,I,S1,17,TRUE,0,Medium,3.1
+185,Hemiramphidae,HEDE,Hemiramphus depauperatus,6,N,H,Hother,H,PRIMARY,I,T,40,FALSE,0,Negligible,3.5
+186,Hemiramphidae,HESP,Hemiramphus species,6,N,H,Hother,H,PRIMARY,I,T,40,FALSE,0,Negligible,3.5
+187,Chaetodontidae,HEPO,Hemitaurichthys polylepis,2,N,Z,Z,Z,SECONDARY,I,S1,15,TRUE,1,High,3.08
+188,Chaetodontidae,HETH,Hemitaurichthys thompsoni,5,N,Z,Z,Z,SECONDARY,I,S1,15,TRUE,1,High,2.98
+189,Chaetodontidae,HEDI,Heniochus diphreutes,2,N,Z,Z,Z,SECONDARY,I,S1,25,FALSE,1,Very low,3.4
+190,Priacanthidae,HECR,Heteropriacanthus cruentatus,1,Y,Z,Z,Z,SECONDARY,I,R,25,FALSE,1,Very low,3.58
+191,Syngnathidae,HIFI,Hippocampus fisheri,8,N,Z,Z,Z,SECONDARY,I,S1,10,TRUE,1,High,3.5
+192,Syngnathidae,,Hippocampus kuda,2,N,Z,Z,Z,SECONDARY,I,S1,25,FALSE,1,Very low,3.5
+193,Holocentridae,,Holocentridae species,2,Y,MI,MI,S,SECONDARY,I,R,35,FALSE,0,Negligible,3.6
+194,Hemiramphidae,HYAC,Hyporhamphus acutus,6,N,H,Hother,H,PRIMARY,I,T,40,FALSE,0,Negligible,3.5
+195,Labridae,XYAN,Iniistius aneitensis,2,Y,MI,MI,S,SECONDARY,I,R,22,FALSE,0,Negligible,3.5
+196,Labridae,XYBA,Iniistius baldwini,4,Y,MI,MI,S,SECONDARY,I,R,25,FALSE,0,Negligible,3.5
+197,Labridae,XYNV,Iniistius niveilatus,2,Y,MI,MI,S,SECONDARY,I,R,30,FALSE,0,Negligible,3.5
+198,Labridae,XYPA,Iniistius pavo,2,Y,MI,MI,S,SECONDARY,I,R,33,FALSE,0,Negligible,3.5
+199,Labridae,,Iniistius species,2,Y,MI,MI,S,SECONDARY,I,R,40,FALSE,0,Negligible,3.5
+200,Labridae,XYUM,Iniistius umbrilatus,8,Y,MI,MI,S,SECONDARY,E,R,25,FALSE,0,Negligible,3.5
+201,Scorpaenidae,IRSI,Iracundus signifer,2,N,MI,MI,S,SECONDARY,I,R,15,TRUE,0,Medium,3.6
+202,Blenniidae,ISZE,Istiblennius zebra,8,N,H,Hother,H,PRIMARY,E,R,10,TRUE,0,Medium,2
+203,Scombridae,,Katsuwonus pelamis,1,Y,P,P,APEX,APEX,I,T,80,FALSE,1,Very low,4.39
+204,Kuhliidae,KUSA,Kuhlia sandvicensis,6,Y,Z,Z,Z,SECONDARY,I,R,25,FALSE,1,Very low,3.8
+205,Kyphosidae,KYBI,Kyphosus bigibbus,5,Y,H,Hbrow,H,PRIMARY,I,S2,60,FALSE,0,Negligible,2
+206,Kyphosidae,KYCI,Kyphosus cinerascens,2,Y,H,Hbrow,H,PRIMARY,I,S2,38,FALSE,0,Negligible,2.3
+207,Kyphosidae,KYHA,Kyphosus hawaiiensis,8,Y,H,Hother,H,PRIMARY,E,S2,45,FALSE,0,Negligible,2
+208,Kyphosidae,,Kyphosus sandwicensis,8,Y,H,Hother,H,PRIMARY,E,S2,75,FALSE,0,Negligible,2
+209,Kyphosidae,KYSP,Kyphosus species,2,Y,H,Hother,H,PRIMARY,I,S2,45,FALSE,0,Negligible,2
+210,Kyphosidae,KYVA,Kyphosus vaigiensis,2,Y,H,Hbrow,H,PRIMARY,I,S2,50,FALSE,0,Negligible,2
+211,Labridae,,Labridae species,2,N,MI,MI,S,SECONDARY,I,S1,100,FALSE,0,Negligible,3.5
+212,Labridae,LAPH,Labroides phthirophagus,8,N,P,P,S,SECONDARY,E,R,10,TRUE,1,High,3.5
+213,Ostraciidae,LAFO,Lactoria fornasini,2,N,SI,SI,S,SECONDARY,I,S1,17,TRUE,0,Medium,3
+214,Lutjanidae,LUFU,Lutjanus fulvus,2,Y,MI,MI,S,SECONDARY,X,S1,28,FALSE,0,Negligible,3.84
+215,Lutjanidae,LUKA,Lutjanus kasmira,2,Y,MI,MI,S,SECONDARY,X,S2,27,FALSE,0,Negligible,3.785
+216,Labridae,MAGE,Macropharyngodon geoffroy,8,N,MI,MI,S,SECONDARY,E,S1,20,FALSE,0,Negligible,3.43
+217,Malacanthidae,MABR,Malacanthus brevirostris,2,N,MI,MI,S,SECONDARY,I,S1,27,FALSE,0,Negligible,3.5
+218,Mobulidae,MAAL,Manta alfredi,2,N,Z,Z,Z,SECONDARY,I,T,800,FALSE,1,Very low,3.5
+219,Mobulidae,,Manta birostris,2,N,Z,Z,Z,SECONDARY,I,T,300,FALSE,1,Very low,3.5
+220,Balistidae,MENI,Melichthys niger,1,Y,H,Hother,H,PRIMARY,I,S1,30,FALSE,0,Negligible,2.27
+221,Balistidae,MEVI,Melichthys vidua,2,Y,H,Hother,H,PRIMARY,I,S1,33,FALSE,0,Negligible,2.3
+222,Scorpididae,MIST,Microcanthus strigatus,5,N,MI,MI,S,SECONDARY,I,S1,17,TRUE,0,Medium,3.6
+223,Monacanthidae,,Monacanthidae species,2,N,H,Hother,H,PRIMARY,I,S1,40,FALSE,0,Negligible,3.1
+224,Lethrinidae,MOGR,Monotaxis grandoculis,2,Y,MI,MI,S,SECONDARY,I,S2,50,FALSE,0,Negligible,3.23
+225,Mugilidae,MUCE,Mugil cephalus,1,Y,D,D,S,SECONDARY,I,T,80,FALSE,0,Negligible,2.716666667
+226,Mullidae,,Mullidae species,2,Y,MI,MI,S,SECONDARY,I,S2,50,FALSE,0,Negligible,3.5
+227,Mullidae,MUFL,Mulloidichthys flavolineatus,2,Y,MI,MI,S,SECONDARY,I,S1,35,FALSE,0,Negligible,3.393333333
+228,Mullidae,,Mulloidichthys mimicus,6,Y,MI,MI,S,SECONDARY,I,S2,30,FALSE,0,Negligible,3.4
+229,Mullidae,MUPF,Mulloidichthys pflugeri,2,Y,P,P,P,SECONDARY,I,S2,48,FALSE,1,Very low,3.4
+230,Mullidae,MUVA,Mulloidichthys vanicolensis,2,Y,MI,MI,S,SECONDARY,I,S1,35,FALSE,0,Negligible,3.4
+231,Muraenidae,,Muraenidae species,2,N,P,P,S,SECONDARY,I,R,300,FALSE,1,Very low,4.2
+232,Ophichthidae,MYMA,Myrichthys magnificus,8,N,MI,MI,S,SECONDARY,E,S1,80,FALSE,0,Negligible,3.67
+233,Holocentridae,MYAM,Myripristis amaena,6,Y,Z,Z,Z,SECONDARY,I,R,20,FALSE,1,Very low,3.625
+234,Holocentridae,MYBE,Myripristis berndti,2,Y,Z,Z,Z,SECONDARY,I,R,25,FALSE,1,Very low,3.625
+235,Holocentridae,MYCH,Myripristis chryseres,2,Y,Z,Z,Z,SECONDARY,I,R,25,FALSE,1,Very low,3.625
+236,Holocentridae,MYKU,Myripristis kuntee,2,Y,Z,Z,Z,SECONDARY,I,R,18,TRUE,1,High,3.34
+237,Holocentridae,,Myripristis species,2,Y,Z,Z,Z,SECONDARY,I,R,22,FALSE,1,Very low,3.34
+238,Holocentridae,MYVI,Myripristis vittata,2,Y,Z,Z,Z,SECONDARY,I,R,20,FALSE,1,Very low,3.34
+239,Acanthuridae,NAAN,Naso annulatus,2,Y,Z,Z,Z,SECONDARY,I,T,50,FALSE,1,Very low,2.1
+240,Acanthuridae,NABR,Naso brevirostris,2,Y,Z,Z,Z,SECONDARY,I,T,45,FALSE,1,Very low,2.2
+241,Acanthuridae,,Naso caesius,2,Y,Z,Z,Z,SECONDARY,I,T,55,FALSE,1,Very low,2.5
+242,Acanthuridae,NAHE,Naso hexacanthus,2,Y,Z,Z,Z,SECONDARY,I,S1,70,FALSE,1,Very low,3.28
+243,Acanthuridae,NALI,Naso lituratus,2,Y,H,Hbrow,H,PRIMARY,I,S2,35,FALSE,0,Negligible,2.3
+244,Acanthuridae,,Naso maculatus,5,Y,Z,Z,Z,SECONDARY,I,T,50,FALSE,1,Very low,2.3
+245,Acanthuridae,NASP,Naso species,2,Y,H,Hother,H,PRIMARY,I,S2,75,FALSE,0,Negligible,2.3
+246,Acanthuridae,NAUN,Naso unicornis,2,Y,H,Hbrow,H,PRIMARY,I,S2,70,FALSE,0,Negligible,2.2
+247,Microdesmidae,NEMA,Nemateleotris magnifica,2,N,Z,Z,Z,SECONDARY,I,S1,6,TRUE,1,High,3.1
+248,Mugilidae,NELE,Neomyxus leuciscus,6,Y,D,D,S,SECONDARY,I,T,35,FALSE,0,Negligible,2.9
+249,Holocentridae,NEAU,Neoniphon aurolineatus,2,N,MI,MI,S,SECONDARY,I,S1,25,FALSE,0,Negligible,3.5
+250,Holocentridae,NESA,Neoniphon sammara,2,N,MI,MI,S,SECONDARY,I,R,25,FALSE,0,Negligible,3.561666667
+251,Holocentridae,,Neoniphon species,2,Y,MI,MI,S,SECONDARY,I,R,23,FALSE,0,Negligible,3.561666667
+253,Labridae,NOTA,Novaculichthys taeniourus,2,N,MI,MI,S,SECONDARY,I,S1,33,FALSE,0,Negligible,3.3
+254,Blenniidae,OMRO,Omobranchus rotundiceps,2,N,H,Hother,H,PRIMARY,I,R,10,TRUE,0,Medium,2
+255,Oplegnathidae,OPFA,Oplegnathus fasciatus,4,Y,MI,MI,S,SECONDARY,I,T,85,FALSE,0,Negligible,3.6
+256,Oplegnathidae,OPPU,Oplegnathus punctatus,4,Y,MI,MI,S,SECONDARY,I,T,85,FALSE,0,Negligible,3.6
+257,Gobiidae,HANE,Opua nephodes,8,N,H,Hother,H,PRIMARY,I,S1,5,TRUE,0,Medium,2.1
+258,Apogonidae,,Ostorhinchus maculiferus,8,N,MI,MI,S,SECONDARY,E,R,5,TRUE,0,Medium,3.5
+259,Ostraciidae,OSME,Ostracion meleagris,2,N,SI,SI,S,SECONDARY,I,S1,17,TRUE,0,Medium,2.91
+260,Ostraciidae,OSWH,Ostracion whitleyi,6,N,SI,SI,S,SECONDARY,I,S1,20,FALSE,0,Negligible,2.91
+261,Labridae,OXBI,Oxycheilinus bimaculatus,2,N,MI,MI,S,SECONDARY,I,S1,13,TRUE,0,Medium,3.5
+262,Labridae,OXUN,Oxycheilinus unifasciatus,2,Y,P,P,P,SECONDARY,I,S1,50,FALSE,1,Very low,4.1
+263,Cirrhitidae,OXTY,Oxycirrhites typus,2,N,Z,Z,Z,SECONDARY,I,S1,9,TRUE,1,High,3.53
+264,Blenniidae,,Parablennius thysanius,2,N,H,Hother,H,PRIMARY,X,R,8,TRUE,0,Medium,2
+265,Cirrhitidae,PAAR,Paracirrhites arcatus,2,N,MI,MI,S,SECONDARY,I,R,13,TRUE,0,Medium,3.59
+266,Cirrhitidae,PAFO,Paracirrhites forsteri,2,N,P,P,P,SECONDARY,I,R,20,FALSE,1,Very low,3.59
+267,Pinguipedidae,PASC,Parapercis schauinslandi,2,N,MI,MI,S,SECONDARY,I,S1,13,TRUE,0,Medium,3.5
+268,Pinguipedidae,,Parapercis species,2,N,MI,MI,S,SECONDARY,I,S1,20,FALSE,0,Negligible,3.5
+269,Mullidae,,Parupeneus chrysonemus,8,Y,MI,MI,S,SECONDARY,E,S2,50,FALSE,0,Negligible,3.5
+270,Mullidae,PACY,Parupeneus cyclostomus,2,Y,P,P,P,SECONDARY,I,S2,50,FALSE,1,Very low,4.06
+271,Mullidae,PABI,Parupeneus insularis,3,Y,MI,MI,S,SECONDARY,I,S1,35,FALSE,0,Negligible,3.635
+272,Mullidae,PAMU,Parupeneus multifasciatus,2,Y,MI,MI,S,SECONDARY,I,S1,25,FALSE,0,Negligible,3.495
+273,Mullidae,PAPL,Parupeneus pleurostigma,2,Y,MI,MI,S,SECONDARY,I,S1,22,FALSE,0,Negligible,3.46
+274,Mullidae,PAPO,Parupeneus porphyreus,8,Y,MI,MI,S,SECONDARY,E,S1,55,FALSE,0,Negligible,3.5
+275,Monacanthidae,PEAS,Pervagor aspricaudus,2,N,H,Hother,H,PRIMARY,I,S1,13,TRUE,0,Medium,2.64
+276,Monacanthidae,PESP,Pervagor spilosoma,8,N,H,Hother,H,PRIMARY,E,S1,20,FALSE,0,Negligible,2.64
+277,Blenniidae,PLEW,Plagiotremus ewaensis,8,N,P,P,P,SECONDARY,E,R,10,TRUE,1,High,3.8
+278,Blenniidae,PLGO,Plagiotremus goslinei,8,N,P,P,P,SECONDARY,E,R,10,TRUE,1,High,3.8
+279,Belonidae,PLAR,Platybelone argalus,1,N,P,P,P,SECONDARY,I,T,35,FALSE,1,Very low,4.5
+280,Pomacentridae,PLIM,Plectroglyphidodon imparipennis,2,N,MI,MI,S,SECONDARY,I,R,10,TRUE,0,Medium,3.2
+281,Pomacentridae,PLJO,Plectroglyphidodon johnstonianus,2,N,C,C,S,SECONDARY,I,R,8,TRUE,2,Very high,3.35
+282,Pomacentridae,PLSI,Plectroglyphidodon sindonis,8,N,H,Hother,H,PRIMARY,E,R,15,TRUE,0,Medium,2.19
+283,Gobiidae,,Pleurosicya micheli,2,N,C,C,S,SECONDARY,I,R,4,TRUE,2,Very high,2.1
+284,Polynemidae,POSE,Polydactylus sexfilis,2,Y,MI,MI,S,SECONDARY,I,S2,65,FALSE,0,Negligible,3.4
+285,Priacanthidae,PRME,Priacanthus meeki,8,Y,Z,Z,Z,SECONDARY,E,R,35,FALSE,1,Very low,4.2
+286,Priacanthidae,PRSP,Priacanthus species,8,Y,Z,Z,Z,SECONDARY,I,R,40,FALSE,1,Very low,4.2
+287,Gobiidae,PRAU,Priolepis aureoviridis,6,N,H,Hother,H,PRIMARY,I,S1,10,TRUE,0,Medium,2.1
+288,Gobiidae,PREU,Priolepis eugenius,8,N,SI,SI,S,SECONDARY,E,R,10,TRUE,0,Medium,2.1
+289,Apogonidae,,Pristiapogon kallopterus,2,N,MI,MI,S,SECONDARY,I,R,20,FALSE,0,Negligible,3.5
+290,Apogonidae,APME,Pristiapogon taeniopterus,2,N,MI,MI,S,SECONDARY,I,R,20,FALSE,0,Negligible,3.5
+291,Holocentridae,PROL,Pristilepis oligolepis,5,N,Z,Z,Z,SECONDARY,I,R,30,FALSE,1,Very low,3.561666667
+292,Anthias (Serranid),PSBI,Pseudanthias bicolor,2,N,Z,Z,Z,SECONDARY,I,S1,12,TRUE,1,High,3.4
+293,Anthias (Serranid),,Pseudanthias hawaiiensis,8,N,Z,Z,Z,SECONDARY,E,S1,15,TRUE,1,High,3.4
+294,Anthias (Serranid),PSTH,Pseudanthias thompsoni,8,N,Z,Z,Z,SECONDARY,E,S1,25,FALSE,1,Very low,3.4
+295,Carangidae,PSDE,Pseudocaranx cheilio,8,Y,P,P,APEX,APEX,I,T,82,FALSE,1,Very low,3.9
+296,Labridae,PSEV,Pseudocheilinus evanidus,2,N,MI,MI,S,SECONDARY,I,S1,8,TRUE,0,Medium,3.5
+297,Labridae,PSOC,Pseudocheilinus octotaenia,2,N,MI,MI,S,SECONDARY,I,S1,10,TRUE,0,Medium,3.5
+298,Labridae,PSTE,Pseudocheilinus tetrataenia,5,N,MI,MI,S,SECONDARY,I,S1,6,TRUE,0,Medium,3.5
+299,Labridae,PSCE,Pseudojuloides cerasinus,2,N,MI,MI,S,SECONDARY,I,S1,15,TRUE,0,Medium,3.5
+300,Gobiidae,PSMA,Psilogobius mainlandi,8,N,SI,SI,S,SECONDARY,E,R,5,TRUE,0,Medium,2.1
+301,Microdesmidae,PTHE,Ptereleotris heteroptera,2,N,Z,Z,Z,SECONDARY,I,S1,10,TRUE,1,High,3.1
+302,Scorpaenidae,PTSP,Pterois sphex,8,N,P,P,P,SECONDARY,E,R,25,FALSE,1,Very low,3.8
+303,Balistidae,RHAC,Rhinecanthus aculeatus,2,N,MI,MI,S,SECONDARY,I,S1,25,FALSE,0,Negligible,3.3
+304,Balistidae,RHRE,Rhinecanthus rectangulus,2,N,MI,MI,S,SECONDARY,I,S1,23,FALSE,0,Negligible,3.085
+305,Holocentridae,SADI,Sargocentron diadema,2,N,MI,MI,S,SECONDARY,I,R,17,TRUE,0,Medium,3.386666667
+306,Holocentridae,SAEN,Sargocentron ensifer,5,Y,MI,MI,S,SECONDARY,I,R,25,FALSE,0,Negligible,3.386666667
+307,Holocentridae,SAPU,Sargocentron punctatissimum,2,N,MI,MI,S,SECONDARY,I,R,13,TRUE,0,Medium,3.41
+308,Holocentridae,,Sargocentron species,2,Y,MI,MI,S,SECONDARY,I,R,50,FALSE,0,Negligible,3.41
+309,Holocentridae,SASP,Sargocentron spiniferum,2,Y,MI,MI,S,SECONDARY,I,R,35,FALSE,0,Negligible,3.54
+310,Holocentridae,SATI,Sargocentron tiere,2,Y,MI,MI,S,SECONDARY,I,R,33,FALSE,0,Negligible,3.52
+311,Holocentridae,SAXA,Sargocentron xantherythrum,8,N,MI,MI,S,SECONDARY,E,R,20,FALSE,0,Negligible,3.46
+312,Synodontidae,SAFL,Saurida flamma,5,N,P,P,P,SECONDARY,I,S2,35,FALSE,1,Very low,4.2
+313,Synodontidae,SAGR,Saurida gracilis,2,N,P,P,P,SECONDARY,I,S2,20,FALSE,1,Very low,4.193333333
+314,Synodontidae,,Saurida species,2,N,P,P,S,SECONDARY,I,S2,20,FALSE,1,Very low,4.2
+315,Scaridae,SCDU,Scarus dubius,8,Y,H,Hscex,H,PRIMARY,E,S2,40,FALSE,0,Negligible,2
+316,Scaridae,SCPS,Scarus psittacus,2,Y,H,Hscex,H,PRIMARY,I,S2,27,FALSE,0,Negligible,2
+317,Scaridae,SCRU,Scarus rubroviolaceus,2,Y,H,Hscex,H,PRIMARY,I,S2,65,FALSE,0,Negligible,2
+318,Scaridae,SCSP,Scarus species,2,Y,H,Hother,H,PRIMARY,I,S2,45,FALSE,0,Negligible,2
+319,Carangidae,SCLY,Scomberoides lysan,2,Y,P,P,APEX,APEX,I,T,70,FALSE,1,Very low,4.5
+320,Scorpaenidae,SCKE,Scorpaenodes kelloggi,2,N,MI,MI,S,SECONDARY,I,R,10,TRUE,0,Medium,3.55
+321,Scorpaenidae,SCPA,Scorpaenodes parvipinnis,2,N,MI,MI,S,SECONDARY,I,R,12,TRUE,0,Medium,4.2
+322,Scorpaenidae,,Scorpaenopsis brevifrons,8,N,P,P,S,SECONDARY,E,R,20,FALSE,1,Very low,4.2
+323,Scorpaenidae,SCCA,Scorpaenopsis cacopsis,8,Y,P,P,P,SECONDARY,E,R,20,FALSE,1,Very low,4.2
+324,Scorpaenidae,SCDI,Scorpaenopsis diabolus,2,Y,P,P,P,SECONDARY,I,R,20,FALSE,1,Very low,4.2
+325,Scorpaenidae,,Scorpaenopsis species,2,N,P,P,S,SECONDARY,I,R,20,FALSE,1,Very low,4.2
+326,Muraenidae,,Scuticaria okinawae,2,N,P,P,S,SECONDARY,I,R,100,FALSE,1,Very low,4.2
+327,Muraenidae,SCTI,Scuticaria tigrinus,2,N,P,P,P,SECONDARY,I,R,120,FALSE,1,Very low,4.2
+328,Scorpaenidae,SEBA,Sebastapistes ballieui,8,N,MI,MI,S,SECONDARY,E,R,15,TRUE,0,Medium,3.6
+329,Scorpaenidae,SECO,Sebastapistes coniorta,6,N,MI,MI,S,SECONDARY,I,R,15,TRUE,0,Medium,3.6
+330,Scorpaenidae,,Sebastapistes species,6,N,MI,MI,S,SECONDARY,I,R,15,TRUE,0,Medium,3.6
+331,Carangidae,SECR,Selar crumenophthalmus,1,Y,Z,Z,Z,SECONDARY,I,T,30,FALSE,1,Very low,3.928333333
+332,Carangidae,SEDU,Seriola dumerili,1,Y,P,P,APEX,APEX,I,T,190,FALSE,1,Very low,4.376363636
+333,Carangidae,,Seriola rivoliana,1,Y,P,P,APEX,APEX,I,T,100,FALSE,1,Very low,4.38
+334,Sphyraenidae,SPBA,Sphyraena barracuda,1,Y,P,P,APEX,APEX,I,T,180,FALSE,1,Very low,4.432
+335,Sphyraenidae,,Sphyraena helleri,2,N,P,P,APEX,APEX,I,T,80,FALSE,1,Very low,4.2
+336,Sphyrnidae,SPLE,Sphyrna lewini,1,Y,P,P,APEX,APEX,I,T,400,FALSE,1,Very low,4.186666667
+337,Clupeidae,,Spratelloides delicatulus,2,N,Z,Z,Z,Z,I,T,7,TRUE,1,High,3.13
+338,Pomacentridae,STFA,Stegastes marginatus,8,N,H,Hother,H,PRIMARY,I,R,16,TRUE,0,Medium,2.2
+339,Labridae,STBA,Stethojulis balteata,8,N,MI,MI,S,SECONDARY,E,S1,15,TRUE,0,Medium,3.22
+340,Balistidae,SUBU,Sufflamen bursa,2,N,MI,MI,S,SECONDARY,I,S1,23,FALSE,0,Negligible,3.17
+341,Balistidae,SUFR,Sufflamen fraenatus,2,N,MI,MI,S,SECONDARY,I,S2,30,FALSE,0,Negligible,3.17
+342,Syngnathidae,,Syngnathidae species,2,N,Z,Z,Z,SECONDARY,I,S1,100,FALSE,1,Very low,3.5
+349,Synodontidae,,Synodontidae species,2,N,P,P,S,SECONDARY,I,S2,40,FALSE,1,Very low,4.2
+343,Synodontidae,SYBI,Synodus binotatus,2,N,P,P,P,SECONDARY,I,S2,14,TRUE,1,High,4.2
+344,Synodontidae,SYDE,Synodus dermatogenys,2,N,P,P,P,SECONDARY,I,S2,22,FALSE,1,Very low,4.2
+345,Synodontidae,SYLO,Synodus lobeli,4,N,P,P,P,SECONDARY,I,S2,25,FALSE,1,Very low,4.2
+346,Synodontidae,SYSP,Synodus species,2,N,P,P,P,SECONDARY,I,S2,18,TRUE,1,High,4.2
+347,Synodontidae,SYUL,Synodus ulae,4,N,P,P,P,SECONDARY,I,S2,30,FALSE,1,Very low,4.2
+348,Synodontidae,SYVA,Synodus variegatus,2,N,P,P,P,SECONDARY,I,S2,25,FALSE,1,Very low,4.276666667
+350,Scorpaenidae,TATR,Taenianotus triacanthus,2,N,P,P,P,SECONDARY,I,R,10,TRUE,1,High,3.6
+351,Tetraodontidae,,Tetraodontidae species,2,N,H,Hother,S,PRIMARY,I,S1,80,FALSE,0,Negligible,2.885
+352,Labridae,THBA,Thalassoma ballieui,8,Y,MI,MI,S,SECONDARY,E,S2,45,FALSE,0,Negligible,3.61
+353,Labridae,THDU,Thalassoma duperrey,8,N,MI,MI,S,SECONDARY,E,S1,30,FALSE,0,Negligible,3.2
+354,Labridae,THLU,Thalassoma lutescens,2,N,MI,MI,S,SECONDARY,I,S1,22,FALSE,0,Negligible,3.43
+355,Labridae,THPU,Thalassoma purpureum,2,Y,MI,MI,S,SECONDARY,I,S1,33,FALSE,0,Negligible,3.61
+356,Labridae,THQU,Thalassoma quinquevittatum,2,N,MI,MI,S,SECONDARY,I,S1,13,TRUE,0,Medium,3.6
+357,Labridae,,Thalassoma species,2,N,MI,MI,S,SECONDARY,I,S1,18,TRUE,0,Medium,3.5
+358,Labridae,THTR,Thalassoma trilobatum,2,Y,MI,MI,S,SECONDARY,I,S2,30,FALSE,0,Negligible,3.59
+359,Synodontidae,TRMY,Trachinocephalus myops,1,N,P,P,P,SECONDARY,I,S2,22,FALSE,1,Very low,4.39
+360,Carcharhinidae,TROB,Triaenodon obesus,2,Y,P,P,APEX,APEX,I,T,210,FALSE,1,Very low,4.19
+361,Gobiidae,,Trimma taylori,2,N,SI,SI,S,SECONDARY,I,R,5,TRUE,0,Medium,2.1
+362,Belonidae,TYCR,Tylosurus crocodilus,1,N,P,P,APEX,APEX,I,T,130,FALSE,1,Very low,4.5
+363,Mullidae,UPAR,Upeneus arge,2,Y,MI,MI,S,SECONDARY,I,S2,33,FALSE,0,Negligible,3.5
+364,Labridae,,Wetmorella albofasciata,2,N,MI,MI,S,SECONDARY,I,R,6,TRUE,0,Medium,3.5
+365,Balistidae,XAAU,Xanthichthys auromarginatus,2,N,Z,Z,Z,SECONDARY,I,S1,20,FALSE,1,Very low,3
+366,Balistidae,XAME,Xanthichthys mento,5,N,Z,Z,Z,SECONDARY,I,S1,30,FALSE,1,Very low,3
+367,Labridae,,Xyrichtys woodi,8,N,MI,MI,S,SECONDARY,E,R,20,FALSE,0,Negligible,3.5
+368,Zanclidae,ZACO,Zanclus cornutus,2,N,SI,SI,S,SECONDARY,I,S1,23,FALSE,0,Negligible,2.885
+369,Acanthuridae,ZEFL,Zebrasoma flavescens,2,Y,H,Hgd,H,PRIMARY,I,S1,18,TRUE,0,Negligible,2
+370,Acanthuridae,ZEVE,Zebrasoma veliferum,2,Y,H,Hgd,H,PRIMARY,I,S1,35,FALSE,0,Negligible,2

@@ -1,0 +1,175 @@
+SPECIES,Climate_susceptibility,SCIENTIFIC_NAME,TAXONNAME,LMAX,TROPHIC
+ABSX,High,Abudefduf sexfasciatus,Abudefduf sexfasciatus,15,Pk
+ABVA,Very low,Abudefduf vaigiensis,Abudefduf vaigiensis,20,Pk
+ACAC,Negligible,Acanthurus achilles,Acanthurus achilles,25,H
+ACBL,Negligible,Acanthurus blochii,Acanthurus blochii,43,H
+ACGU,Negligible,Acanthurus guttatus,Acanthurus guttatus,29,H
+ACLI,Negligible,Acanthurus lineatus,Acanthurus lineatus,38,H
+ACMT,Very low,Acanthurus mata,Acanthurus mata,50,Pk
+ACNC,Negligible,Acanthurus nigricans,Acanthurus nigricans,23,H
+ACNF,Negligible,Acanthurus nigrofuscus,Acanthurus nigrofuscus,23,H
+ACNR,Negligible,Acanthurus nigroris,Acanthurus nigroris,25,H
+ACPY,Negligible,Acanthurus pyroferus,Acanthurus pyroferus,25,H
+ACTH,Very low,Acanthurus thompsoni,Acanthurus thompsoni,28,Pk
+AMCH,High,Amphiprion chrysopterus,Amphiprion chrysopterus,17,Pk
+AMME,High,Amphiprion melanopus,Amphiprion melanopus,10.8,Pk
+AMSC,Low,Amanses scopas,Amanses scopas,20,Cor
+ANCA,Very low,Anampses caeruleopunctatus,Anampses caeruleopunctatus,42,MI
+APFU,Very low,Aphareus furca,Aphareus furca,70,Pisc
+AUCH,Very low,Aulostomus chinensis,Aulostomus chinensis,80,Pisc
+BAUN,Very low,Balistapus undulatus,Balistapus undulatus,30,MI
+BLEN,High,,Blenniidae,16.6,Pk
+BOAX,Very low,Bodianus axillaris,Bodianus axillaris,20,MI
+CAAM,Medium,Canthigaster amboinensis,Canthigaster amboinensis,14,H
+CADU,Low,Cantherhines dumerilii,Cantherhines dumerilii,38,Om
+CAME,Very low,Caranx melampygus,Caranx melampygus,117,Pisc
+CAOR,Very low,Carangoides orthogrammus,Carangoides orthogrammus,70,Pisc
+CAPA,Negligible,Cantherhines pardalis,Cantherhines pardalis,25,H
+CARD,High,,Apogonidae,16,Pk
+CASO,Medium,Canthigaster solandri,Canthigaster solandri,11,H
+CEAR,Very low,Cephalopholis argus,Cephalopholis argus,60,Pisc
+CEBC,Medium,Centropyge bicolor,Centropyge bicolor,15,H
+CEBI,Medium,Centropyge bispinosa,Centropyge bispinosa,10,H
+CEFL,Medium,Centropyge flavissima,Centropyge flavissima,14,H
+CEOC,Negligible,Cetoscarus ocellatus,Cetoscarus ocellatus,90,H
+CEUR,Very low,Cephalopholis urodeta,Cephalopholis urodeta,28,Pisc
+CHAM,Medium,Chromis amboinensis,Chromis amboinensis,8,H
+CHBE,High,Chaetodon bennetti,Chaetodon bennetti,18,MI
+CHBR,Medium,Chrysiptera brownriggii,Chrysiptera brownriggii,9,H
+CHCI,Very high,Chaetodon citrinellus,Chaetodon citrinellus,13,Cor
+CHCL,Very low,Cheilinus chlorourus,Cheilinus chlorourus,32,MI
+CHCY,High,Chrysiptera cyanea,Chrysiptera cyanea,8,Pk
+CHEP,Negligible,Chaetodon ephippium,Chaetodon ephippium,23,MI
+CHFA,Very low,Cheilinus fasciatus,Cheilinus fasciatus,36,MI
+CHIO,Medium,Chromis iomelas,Chromis iomelas,8,H
+CHJA,Negligible,Chlorurus japanensis,Chlorurus japanensis,31,H
+CHJO,High,,Choerodon jordani,18,Om
+CHLT,Very high,Chaetodon lunulatus,Chaetodon lunulatus,15,Cor
+CHLU,Negligible,Chaetodon lunula,Chaetodon lunula,21,SI
+CHMA,High,Chromis margaritifer,Chromis margaritifer,8,Pk
+CHMC,Negligible,Chlorurus microrhinos,Chlorurus microrhinos,80,H
+CHMR,Medium,Chaetodon mertensii,Chaetodon mertensii,13,H
+CHOR,Very high,Chaetodon ornatissimus,Chaetodon ornatissimus,20,Cor
+CHOX,High,Cheilinus oxycephalus,Cheilinus oxycephalus,17,MI
+CHPW,Very high,Chaetodon pelewensis,Chaetodon pelewensis,13,Cor
+CHQN,High,Cheilodipterus quinquelineatus,Cheilodipterus quinquelineatus,12,MI
+CHRE,Very high,Chaetodon reticulatus,Chaetodon reticulatus,18,Cor
+CHSE,Negligible,Chaetodon semeion,Chaetodon semeion,24,H
+CHSO,Negligible,Chlorurus sordidus,Chlorurus sordidus,40,H
+CHTA,Medium,Chrysiptera taupou,Chrysiptera taupou,8,H
+CHTL,Very low,Cheilinus trilobatus,Cheilinus trilobatus,45,MI
+CHTR,Very high,Chaetodon trifascialis,Chaetodon trifascialis,18,Cor
+CHUB,Negligible,,Kyphosus sp,75,H
+CHUL,High,Chaetodon ulietensis,Chaetodon ulietensis,15,MI
+CHVA,High,Chromis vanderbilti,Chromis vanderbilti,15,Pk
+CHVG,Very low,Chaetodon vagabundus,Chaetodon vagabundus,23,SI
+CHVR,High,Chromis viridis,Chromis viridis,8,Pk
+CHXA,High,Chromis xanthura,Chromis xanthura,15,Pk
+CIEX,High,Cirrhilabrus exquisitus,Cirrhilabrus exquisitus,12,Pk
+CIPI,Negligible,Cirrhitus pinnulatus,Cirrhitus pinnulatus,30,MI
+CISP,Medium,,Cirripectes sp,10,H
+CIVR,Medium,Cirripectes variolosus,Cirripectes variolosus,10,H
+CTCY,Negligible,Ctenochaetus cyanocheilus,Ctenochaetus cyanocheilus,20,H
+CTFL,Medium,Ctenochaetus flavicauda,Ctenochaetus flavicauda,17,H
+CTSR,Negligible,Ctenochaetus striatus,Ctenochaetus striatus,28,H
+DAAU,High,Dascyllus auripinnis,Dascyllus auripinnis,16,Pk
+DAMS,High,,Pomacentridae,17.8,Om
+ECBC,High,Ecsenius bicolor,Ecsenius bicolor,10,Pk
+EPIN,Negligible,Epibulus insidiator,Epibulus insidiator,54,MI
+EPME,Very low,Epinephelus merra,Epinephelus merra,33,Pisc
+EPPO,Very low,Epinephelus polyphekadion,Epinephelus polyphekadion,75,Pisc
+EXBR,Very high,Exallias brevis,Exallias brevis,16,Cor
+FOFL,Medium,Forcipiger flavissimus,Forcipiger flavissimus,22,SI
+FOLO,Medium,Forcipiger longirostris,Forcipiger longirostris,22,MI
+GOVA,Negligible,Gomphosus varius,Gomphosus varius,32,MI
+GYME,Very low,Gymnothorax meleagris,Gymnothorax meleagris,120,Pisc
+HAHO,Very low,Halichoeres hortulanus,Halichoeres hortulanus,27,MI
+HAMA,High,Halichoeres marginatus,Halichoeres marginatus,18,MI
+HAMT,High,Halichoeres margaritaceus,Halichoeres margaritaceus,13,MI
+HAOR,Medium,Halichoeres ornatissimus,Halichoeres ornatissimus,15,MI
+HAPR,High,Halichoeres prosopeion,Halichoeres prosopeion,16,MI
+HECH,Very high,Heniochus chrysostomus,Heniochus chrysostomus,18,Cor
+HECR,Very low,Heteropriacanthus cruentatus,Heteropriacanthus cruentatus,32,Pk
+HEFA,Very low,Hemigymnus fasciatus,Hemigymnus fasciatus,50,MI
+HEME,Very low,Hemigymnus melapterus,Hemigymnus melapterus,60,MI
+HEMO,Very low,Heniochus monoceros,Heniochus monoceros,23,MI
+HESI,Low,Heniochus singularius,Heniochus singularius,30,Cor
+HEVA,Very high,Heniochus varius,Heniochus varius,19,Cor
+LAAU,High,Labropsis australis,Labropsis australis,10.5,MI
+LABI,High,Labroides bicolor,Labroides bicolor,14,MI
+LADI,High,Labroides dimidiatus,Labroides dimidiatus,12,MI
+LARU,High,Labroides rubrolabiatus,Labroides rubrolabiatus,9,MI
+LAXA,High,Labropsis xanthonota,Labropsis xanthonota,14,MI
+LEOB,Very low,Lethrinus obsoletus,Lethrinus obsoletus,50,MI
+LETH,Very low,,Lethrinus sp,86,MI
+LIZA,Very low,,Synodontidae,22,Pisc
+LUFU,Negligible,Lutjanus fulvus,Lutjanus fulvus,43,MI
+LUMO,Very low,Lutjanus monostigma,Lutjanus monostigma,60,Pisc
+MAMA,Very low,Macolor macularis,Macolor macularis,60,Pk
+MAME,High,Macropharyngodon meleagris,Macropharyngodon meleagris,15,MI
+MANI,Very low,Macolor niger,Macolor niger,75,Pk
+MEAT,High,Meiacanthus atrodorsalis,Meiacanthus atrodorsalis,10,Pk
+MENI,Negligible,Melichthys niger,Melichthys niger,38,Pk
+MEVI,Negligible,Melichthys vidua,Melichthys vidua,34,H
+MOGR,Negligible,Monotaxis grandoculis,Monotaxis grandoculis,63,MI
+MYBE,Very low,Myripristis berndti,Myripristis berndti,33,Pk
+MYKU,High,Myripristis kuntee,Myripristis kuntee,23,Pk
+MYSP,Very low,,Myripristinae,35,Pk
+NAHE,Very low,Naso hexacanthus,Naso hexacanthus,75,Pk
+NALI,Negligible,Naso lituratus,Naso lituratus,46,H
+NEME,High,Neopomacentrus metallicus,Neopomacentrus metallicus,8,Pk
+NESA,Negligible,Neoniphon sammara,Neoniphon sammara,32,MI
+NESP,Very low,,Neoniphon sp,35,MI
+OSME,Medium,Ostracion meleagris,Ostracion meleagris,28,SI
+OXDI,Very low,Oxycheilinus digramma,Oxycheilinus digramma,30,Pisc
+OXLO,Very high,Oxymonacanthus longirostris,Oxymonacanthus longirostris,9,Cor
+OXUN,Very low,Oxycheilinus unifasciatus,Oxycheilinus unifasciatus,46,Pisc
+PAAR,Medium,Paracirrhites arcatus,Paracirrhites arcatus,14,MI
+PACL,High,Parapercis clathrata,Parapercis clathrata,18,MI
+PACY,Very low,Parupeneus cyclostomus,Parupeneus cyclostomus,50,Pisc
+PAFO,Very low,Paracirrhites forsteri,Paracirrhites forsteri,23,Pisc
+PAIN,Very low,Parupeneus insularis,Parupeneus insularis,33,MI
+PAMU,Negligible,Parupeneus multifasciatus,Parupeneus multifasciatus,38,MI
+PAPL,Negligible,Parupeneus pleurostigma,Parupeneus pleurostigma,33,MI
+PARR,Negligible,,Scaridae,68,H
+PEOU,Very low,Pempheris oualensis,Pempheris oualensis,23,Pk
+PLDI,Very high,Plectroglyphidodon dickii,Plectroglyphidodon dickii,11,Cor
+PLJO,Very high,Plectroglyphidodon johnstonianus,Plectroglyphidodon johnstonianus,12,Cor
+PLLA,High,Plectroglyphidodon lacrymatus,Plectroglyphidodon lacrymatus,10,Pk
+PLLE,Medium,Plectroglyphidodon leucozonus,Plectroglyphidodon leucozonus,12,H
+PLLV,Very low,Plectropomus laevis,Plectropomus laevis,125,Pisc
+PLPH,Medium,Plectroglyphidodon phoenixensis,Plectroglyphidodon phoenixensis,8.5,H
+PLTA,High,Plagiotremus tapeinosoma,Plagiotremus tapeinosoma,10,Par
+POCO,High,Pomacentrus coelestis,Pomacentrus coelestis,7,Pk
+POIM,Very low,Pomacanthus imperator,Pomacanthus imperator,38,SI
+POPH,High,,Pomacentrus philippinus,10,Pk
+PORI,High,Pomachromis richardsoni,Pomachromis richardsoni,6,Pk
+POVA,High,Pomacentrus vaiuli,Pomacentrus vaiuli,10,Pk
+PSEV,Medium,Pseudocheilinus evanidus,Pseudocheilinus evanidus,14,MI
+PSFL,Very low,Pseudobalistes flavimarginatus,Pseudobalistes flavimarginatus,60,MI
+PSHE,High,Pseudocheilinus hexataenia,Pseudocheilinus hexataenia,8,MI
+PSOC,Medium,Pseudocheilinus octotaenia,Pseudocheilinus octotaenia,14,MI
+PTEV,High,Ptereleotris evides,Ptereleotris evides,18,Pk
+PYDI,Very low,Pygoplites diacanthus,Pygoplites diacanthus,25,SI
+RHRE,Negligible,Rhinecanthus rectangulus,Rhinecanthus rectangulus,25,MI
+SASP,Negligible,Sargocentron spiniferum,Sargocentron spiniferum,52,MI
+SCGH,Negligible,Scarus ghobban,Scarus ghobban,90,H
+SCOV,Negligible,Scarus oviceps,Scarus oviceps,38,H
+SCPS,Negligible,Scarus psittacus,Scarus psittacus,33,H
+SCSC,Negligible,Scarus schlegeli,Scarus schlegeli,38,H
+SCSP,Negligible,,Scarus sp,130,H
+SPFL,Very low,,Sphyraena flavicauda,60,Pisc
+STBN,High,Stethojulis bandanensis,Stethojulis bandanensis,16,Pk
+STFA,Medium,Stegastes fasciolatus,Stegastes fasciolatus,16,H
+STNI,Medium,Stegastes nigricans,Stegastes nigricans,14,H
+STST,High,Stethojulis strigiventer,Stethojulis strigiventer,15,MI
+SUBU,Negligible,Sufflamen bursa,Sufflamen bursa,28,MI
+SUCH,Very low,Sufflamen chrysopterum,Sufflamen chrysopterum,22,MI
+THAM,High,Thalassoma amblycephalum,Thalassoma amblycephalum,15,Pk
+THHA,Very low,Thalassoma hardwicke,Thalassoma hardwicke,20,Pk
+THLU,Negligible,Thalassoma lutescens,Thalassoma lutescens,25,MI
+THQU,Medium,Thalassoma quinquevittatum,Thalassoma quinquevittatum,17,MI
+WRAS,Very low,,Labridae,93,MI
+ZACO,Negligible,Zanclus cornutus,Zanclus cornutus,20,SI
+ZESC,Negligible,Zebrasoma scopas,Zebrasoma scopas,20,H
+ZEVE,Negligible,Zebrasoma veliferum,Zebrasoma veliferum,40,H

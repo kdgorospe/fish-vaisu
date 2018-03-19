@@ -1,0 +1,303 @@
+SPECIES SCIENTIFIC_NAME TAXONNAME LMAX TROPHIC SIZESUSCEPT TROPHSUSCEPT SUSCEPTCODE Climate_susceptibility
+1 ABSX Abudefduf sexfasciatus Abudefduf sexfasciatus 15 Pk TRUE 1 1TRUE High
+2 ACAL Acanthurus albipectoralis Acanthurus albipectoralis 33 H FALSE 0 0FALSE Negligible
+3 ACLI Acanthurus lineatus Acanthurus lineatus 38 H FALSE 0 0FALSE Negligible
+4 ACLU Acanthurus leucocheilus Acanthurus leucocheilus 45 H FALSE 0 0FALSE Negligible
+5 ACMA Acanthurus maculiceps Acanthurus maculiceps 41 H FALSE 0 0FALSE Negligible
+6 ACMT Acanthurus mata Acanthurus mata 50 Pk FALSE 1 1FALSE Very low
+7 ACNI Acanthurus nigricauda Acanthurus nigricauda 40 H FALSE 0 0FALSE Negligible
+8 ACPY Acanthurus pyroferus Acanthurus pyroferus 25 H FALSE 0 0FALSE Negligible
+9 AENA Aetobatus narinari Aetobatus narinari 350 MI FALSE 1 1FALSE Very low
+10 AMCH Amphiprion chrysopterus Amphiprion chrysopterus 17 Pk TRUE 1 1TRUE High
+11 AMCL Amphiprion clarkii Amphiprion clarkii 14 Pk TRUE 1 1TRUE High
+12 AMFA Amblyeleotris fasciata Amblyeleotris fasciata 8 Pk TRUE 1 1TRUE High
+13 AMME Amphiprion melanopus Amphiprion melanopus 10.8 Pk TRUE 1 1TRUE High
+14 AMPE Amphiprion perideraion Amphiprion perideraion 10 Pk TRUE 1 1TRUE High
+15 AMPH Amblygobius phalaena Amblygobius phalaena 14 H TRUE 0 0TRUE Medium
+16 AMSC Amanses scopas Amanses scopas 20 Cor FALSE 2 2FALSE Low
+17 ANCA Anampses caeruleopunctatus Anampses caeruleopunctatus 42 MI FALSE 1 1FALSE Very low
+18 ANLE Anyperodon leucogrammicus Anyperodon leucogrammicus 60 Pisc FALSE 1 1FALSE Very low
+19 ANME Anampses melanurus Anampses melanurus 12 MI TRUE 1 1TRUE High
+20 ANMG Anampses meleagrides Anampses meleagrides 22 MI FALSE 1 1FALSE Very low
+21 ANSP  Anampses sp 20 MI FALSE 1 1FALSE Very low
+22 ANTH  Anthias sp 14 Pk TRUE 1 1TRUE High
+23 ANTW Anampses twistii Anampses twistii 18 MI TRUE 1 1TRUE High
+24 APAN Apogon angustatus Apogon angustatus 9 Pk TRUE 1 1TRUE High
+25 APLU Apogon luteus Apogon luteus 5 Pk TRUE 1 1TRUE High
+26 APNO Apogon novemfasciatus Apogon novemfasciatus 9.5 Pk TRUE 1 1TRUE High
+27 APSP  Apogon sp 16 Pk TRUE 1 1TRUE High
+28 APTR Apolemichthys trimaculatus Apolemichthys trimaculatus 25 SI FALSE 1 1FALSE Very low
+29 ARMA Arothron mappa Arothron mappa 65 Om FALSE 1 1FALSE Very low
+30 ARNI Arothron nigropunctatus Arothron nigropunctatus 33 Cor FALSE 2 2FALSE Low
+31 ARST Arothron stellatus Arothron stellatus 120 Cor FALSE 2 2FALSE Low
+32 ASTA Aspidontus taeniatus Aspidontus taeniatus 12 Par TRUE 1 1TRUE High
+33 BACO Balistoides conspicillum Balistoides conspicillum 50 MI FALSE 1 1FALSE Very low
+34 BAUN Balistapus undulatus Balistapus undulatus 30 MI FALSE 1 1FALSE Very low
+35 BAVI Balistoides viridescens Balistoides viridescens 75 MI FALSE 1 1FALSE Very low
+36 BLCH Blenniella chrysospilos Blenniella chrysospilos 14 Pk TRUE 1 1TRUE High
+37 BLEN  Blenniidae 16.6 Pk TRUE 1 1TRUE High
+38 BOAX Bodianus axillaris Bodianus axillaris 20 MI FALSE 1 1FALSE Very low
+39 BODI Bodianus diana Bodianus diana 25 MI FALSE 1 1FALSE Very low
+40 BOLO Bodianus loxozonus Bodianus loxozonus 40 MI FALSE 1 1FALSE Very low
+41 BOME Bodianus mesothorax Bodianus mesothorax 19 MI TRUE 1 1TRUE High
+42 CABE Canthigaster bennetti Canthigaster bennetti 10 H TRUE 0 0TRUE Medium
+43 CACE Caesio caerulaurea Caesio caerulaurea 35 Pk FALSE 1 1FALSE Very low
+44 CAJN Canthigaster janthinoptera Canthigaster janthinoptera 9 H TRUE 0 0TRUE Medium
+45 CAMC Caracanthus maculatus Caracanthus maculatus 5 MI TRUE 1 1TRUE High
+46 CAPA Cantherhines pardalis Cantherhines pardalis 25 H FALSE 0 0FALSE Negligible
+47 CARD  Apogonidae 16 Pk TRUE 1 1TRUE High
+48 CASO Canthigaster solandri Canthigaster solandri 11 H TRUE 0 0TRUE Medium
+49 CATE Caesio teres Caesio teres 40 Pk FALSE 1 1FALSE Very low
+50 CAVA Canthigaster valentini Canthigaster valentini 9 H TRUE 0 0TRUE Medium
+51 CEBC Centropyge bicolor Centropyge bicolor 15 H TRUE 0 0TRUE Medium
+52 CEBI Centropyge bispinosa Centropyge bispinosa 10 H TRUE 0 0TRUE Medium
+53 CEHE Centropyge heraldi Centropyge heraldi 10 H TRUE 0 0TRUE Medium
+54 CELE Cephalopholis leopardus Cephalopholis leopardus 20 Pisc FALSE 1 1FALSE Very low
+55 CEOC Cetoscarus ocellatus Cetoscarus ocellatus 90 H FALSE 0 0FALSE Negligible
+56 CESP Cephalopholis spiloparaea Cephalopholis spiloparaea 30 Pisc FALSE 1 1FALSE Very low
+57 CEUR Cephalopholis urodeta Cephalopholis urodeta 28 Pisc FALSE 1 1FALSE Very low
+58 CHAL Chromis alpha Chromis alpha 8.5 Pk TRUE 1 1TRUE High
+59 CHAM Chromis amboinensis Chromis amboinensis 8 H TRUE 0 0TRUE Medium
+60 CHAR Cheilodipterus artus Cheilodipterus artus 18.7 MI TRUE 1 1TRUE High
+61 CHBE Chaetodon bennetti Chaetodon bennetti 18 MI TRUE 1 1TRUE High
+62 CHBI Chrysiptera biocellata Chrysiptera biocellata 7 H TRUE 0 0TRUE Medium
+63 CHBR Chrysiptera brownriggii Chrysiptera brownriggii 9 H TRUE 0 0TRUE Medium
+64 CHCL Cheilinus chlorourus Cheilinus chlorourus 32 MI FALSE 1 1FALSE Very low
+65 CHCY Chrysiptera cyanea Chrysiptera cyanea 8 Pk TRUE 1 1TRUE High
+66 CHEI  Cheilinus sp 45 MI FALSE 1 1FALSE Very low
+67 CHFA Cheilinus fasciatus Cheilinus fasciatus 36 MI FALSE 1 1FALSE Very low
+68 CHFN Chlorurus frontalis Chlorurus frontalis 50 H FALSE 0 0FALSE Negligible
+69 CHFU Chromis fumea Chromis fumea 10 Pk TRUE 1 1TRUE High
+70 CHIO Chromis iomelas Chromis iomelas 8 H TRUE 0 0TRUE Medium
+71 CHJA Chlorurus japanensis Chlorurus japanensis 31 H FALSE 0 0FALSE Negligible
+72 CHJO  Choerodon jordani 18 Om TRUE 1 1TRUE High
+73 CHMA Chromis margaritifer Chromis margaritifer 8 Pk TRUE 1 1TRUE High
+74 CHMC Chlorurus microrhinos Chlorurus microrhinos 80 H FALSE 0 0FALSE Negligible
+75 CHMD Cheilodipterus macrodon Cheilodipterus macrodon 20 Pisc FALSE 1 1FALSE Very low
+76 CHML Chaetodon melannotus Chaetodon melannotus 15 Cor TRUE 2 2TRUE Very high
+77 CHMR Chaetodon mertensii Chaetodon mertensii 13 H TRUE 0 0TRUE Medium
+78 CHOX Cheilinus oxycephalus Cheilinus oxycephalus 17 MI TRUE 1 1TRUE High
+79 CHPW Chaetodon pelewensis Chaetodon pelewensis 13 Cor TRUE 2 2TRUE Very high
+80 CHQN Cheilodipterus quinquelineatus Cheilodipterus quinquelineatus 12 MI TRUE 1 1TRUE High
+81 CHRA Chaetodon rafflesii Chaetodon rafflesii 15 Cor TRUE 2 2TRUE Very high
+82 CHSE Chaetodon semeion Chaetodon semeion 24 H FALSE 0 0FALSE Negligible
+83 CHSP  Cheilodipterus sp 18 MI TRUE 1 1TRUE High
+84 CHTA Chrysiptera taupou Chrysiptera taupou 8 H TRUE 0 0TRUE Medium
+85 CHTE Chromis ternatensis Chromis ternatensis 8 Pk TRUE 1 1TRUE High
+86 CHTL Cheilinus trilobatus Cheilinus trilobatus 45 MI FALSE 1 1FALSE Very low
+87 CHUB  Kyphosus sp 75 H FALSE 0 0FALSE Negligible
+88 CHUD Cheilinus undulatus Cheilinus undulatus 229 MI FALSE 1 1FALSE Very low
+89 CHUL Chaetodon ulietensis Chaetodon ulietensis 15 MI TRUE 1 1TRUE High
+90 CHVG Chaetodon vagabundus Chaetodon vagabundus 23 SI FALSE 1 1FALSE Very low
+91 CHVR Chromis viridis Chromis viridis 8 Pk TRUE 1 1TRUE High
+92 CHWE Chromis weberi Chromis weberi 12 Pk TRUE 1 1TRUE High
+93 CHXA Chromis xanthura Chromis xanthura 15 Pk TRUE 1 1TRUE High
+94 CIEX Cirrhilabrus exquisitus Cirrhilabrus exquisitus 12 Pk TRUE 1 1TRUE High
+95 CIFL Cirrhitichthys falco Cirrhitichthys falco 9 MI TRUE 1 1TRUE High
+96 CIKA Cirrhilabrus katherinae Cirrhilabrus katherinae 9 Pk TRUE 1 1TRUE High
+97 CILB  Cirrhilabrus sp 15 Pk TRUE 1 1TRUE High
+98 CIPO Cirripectes polyzona Cirripectes polyzona 10 H TRUE 0 0TRUE Medium
+99 CIPU Cirrhilabrus punctatus Cirrhilabrus punctatus 13 MI TRUE 1 1TRUE High
+100 CISP  Cirripectes sp 10 H TRUE 0 0TRUE Medium
+101 CISR Cirripectes springeri Cirripectes springeri 10 H TRUE 0 0TRUE Medium
+102 CIST Cirripectes stigmaticus Cirripectes stigmaticus 10 H TRUE 0 0TRUE Medium
+103 CIVR Cirripectes variolosus Cirripectes variolosus 10 H TRUE 0 0TRUE Medium
+104 COAY Coris aygula Coris aygula 120 MI FALSE 1 1FALSE Very low
+105 COFF Corythoichthys flavofasciatus Corythoichthys flavofasciatus 12 Pk TRUE 1 1TRUE High
+106 CTBI Ctenochaetus binotatus Ctenochaetus binotatus 22 H FALSE 0 0FALSE Negligible
+107 CTCY Ctenochaetus cyanocheilus Ctenochaetus cyanocheilus 20 H FALSE 0 0FALSE Negligible
+108 CTFL Ctenochaetus flavicauda Ctenochaetus flavicauda 17 H TRUE 0 0TRUE Medium
+109 CTSP  Ctenochaetus sp 30 H FALSE 0 0FALSE Negligible
+110 CTSR Ctenochaetus striatus Ctenochaetus striatus 28 H FALSE 0 0FALSE Negligible
+111 DAAR Dascyllus aruanus Dascyllus aruanus 8 Pk TRUE 1 1TRUE High
+112 DAAU Dascyllus auripinnis Dascyllus auripinnis 16 Pk TRUE 1 1TRUE High
+113 DAMS  Pomacentridae 17.8 Om TRUE 1 1TRUE High
+114 DARE Dascyllus reticulatus Dascyllus reticulatus 8 Pk TRUE 1 1TRUE High
+115 DATR Dascyllus trimaculatus Dascyllus trimaculatus 14 Pk TRUE 1 1TRUE High
+116 DOTT  Pseudochromis sp 8.1 MI TRUE 1 1TRUE High
+117 ECBC Ecsenius bicolor Ecsenius bicolor 10 Pk TRUE 1 1TRUE High
+118 ECMO Ecsenius monoculus Ecsenius monoculus 5 H TRUE 0 0TRUE Medium
+119 ECOP Ecsenius opsifrontalis Ecsenius opsifrontalis 10 Pk TRUE 1 1TRUE High
+120 EMPE  Lethrinidae 86 MI FALSE 1 1FALSE Very low
+121 ENSP  Enneapterygius sp 4.8 MI TRUE 1 1TRUE High
+122 ENTU Enneapterygius tutuilae Enneapterygius tutuilae 4 MI TRUE 1 1TRUE High
+123 EPFA Epinephelus fasciatus Epinephelus fasciatus 43 Pisc FALSE 1 1FALSE Very low
+124 EPHE Epinephelus hexagonatus Epinephelus hexagonatus 26 Pisc FALSE 1 1FALSE Very low
+125 EPMA Epinephelus maculatus Epinephelus maculatus 60 Pisc FALSE 1 1FALSE Very low
+126 EPMC Epinephelus macrospilos Epinephelus macrospilos 51 Pisc FALSE 1 1FALSE Very low
+127 EPME Epinephelus merra Epinephelus merra 33 Pisc FALSE 1 1FALSE Very low
+128 EPML Epinephelus melanostigma Epinephelus melanostigma 33 Pisc FALSE 1 1FALSE Very low
+129 EPPO Epinephelus polyphekadion Epinephelus polyphekadion 75 Pisc FALSE 1 1FALSE Very low
+130 EPSL Epinephelus spilotoceps Epinephelus spilotoceps 35 Pisc FALSE 1 1FALSE Very low
+131 EPSO Epinephelus socialis Epinephelus socialis 52 Pisc FALSE 1 1FALSE Very low
+132 EPSP  Epinephelus sp 128 Pisc FALSE 1 1FALSE Very low
+133 EPTA Epinephelus tauvina Epinephelus tauvina 75 Pisc FALSE 1 1FALSE Very low
+134 EVAL Eviota albolineata Eviota albolineata 3 MI TRUE 1 1TRUE High
+135 EVGU Eviota guttata Eviota guttata 3 MI TRUE 1 1TRUE High
+136 FISH  Un-id fish sp 999 X FALSE 1 1FALSE Very low
+137 FUDU Fusigobius duospilus Fusigobius duospilus 6 MI TRUE 1 1TRUE High
+138 FUNE Fusigobius neophytus Fusigobius neophytus 7.5 MI TRUE 1 1TRUE High
+139 GNAU Gnathodentex aureolineatus Gnathodentex aureolineatus 30 MI FALSE 1 1FALSE Very low
+140 GOAT  Mullidae 50 MI FALSE 1 1FALSE Very low
+141 GOBI  Gobiidae 36.5 MI FALSE 1 1FALSE Very low
+142 GOCI Gobiodon citrinus Gobiodon citrinus 6.6 MI TRUE 1 1TRUE High
+143 GRAL Gracila albomarginata Gracila albomarginata 50 Pisc FALSE 1 1FALSE Very low
+144 GROU  Serranidae 128 Pisc FALSE 1 1FALSE Very low
+145 GRSE Grammistes sexlineatus Grammistes sexlineatus 27 MI FALSE 1 1FALSE Very low
+146 GYJA Gymnothorax javanicus Gymnothorax javanicus 300 Pisc FALSE 1 1FALSE Very low
+147 GYUC Gymnosarda unicolor Gymnosarda unicolor 248 Pisc FALSE 1 1FALSE Very low
+148 HABI Halichoeres biocellatus Halichoeres biocellatus 12 MI TRUE 1 1TRUE High
+149 HAHO Halichoeres hortulanus Halichoeres hortulanus 27 MI FALSE 1 1FALSE Very low
+150 HAMA Halichoeres marginatus Halichoeres marginatus 18 MI TRUE 1 1TRUE High
+151 HAME Halichoeres melasmapomus Halichoeres melasmapomus 14 MI TRUE 1 1TRUE High
+152 HAML Halichoeres melanurus Halichoeres melanurus 14 MI TRUE 1 1TRUE High
+153 HAMT Halichoeres margaritaceus Halichoeres margaritaceus 13 MI TRUE 1 1TRUE High
+154 HAPR Halichoeres prosopeion Halichoeres prosopeion 16 MI TRUE 1 1TRUE High
+155 HASP  Halichoeres sp 19.3 MI TRUE 1 1TRUE High
+156 HATR Halichoeres trimaculatus Halichoeres trimaculatus 27 MI FALSE 1 1FALSE Very low
+157 HEAC Heniochus acuminatus Heniochus acuminatus 25 Pk FALSE 1 1FALSE Very low
+158 HECH Heniochus chrysostomus Heniochus chrysostomus 18 Cor TRUE 2 2TRUE Very high
+159 HEFA Hemigymnus fasciatus Hemigymnus fasciatus 50 MI FALSE 1 1FALSE Very low
+160 HEME Hemigymnus melapterus Hemigymnus melapterus 60 MI FALSE 1 1FALSE Very low
+161 HEMO Heniochus monoceros Heniochus monoceros 23 MI FALSE 1 1FALSE Very low
+162 HESI Heniochus singularius Heniochus singularius 30 Cor FALSE 2 2FALSE Low
+163 HEVA Heniochus varius Heniochus varius 19 Cor TRUE 2 2TRUE Very high
+164 HILO Hipposcarus longiceps Hipposcarus longiceps 60 H FALSE 0 0FALSE Negligible
+165 HODO Hologymnosus doliatus Hologymnosus doliatus 40 MI FALSE 1 1FALSE Very low
+166 ISDE Istigobius decoratus Istigobius decoratus 13 MI TRUE 1 1TRUE High
+167 LAAU Labropsis australis Labropsis australis 10.5 MI TRUE 1 1TRUE High
+168 LABI Labroides bicolor Labroides bicolor 14 MI TRUE 1 1TRUE High
+169 LADI Labroides dimidiatus Labroides dimidiatus 12 MI TRUE 1 1TRUE High
+170 LARU Labroides rubrolabiatus Labroides rubrolabiatus 9 MI TRUE 1 1TRUE High
+171 LAUN Labrichthys unilineatus Labrichthys unilineatus 16 Cor TRUE 2 2TRUE Very high
+172 LAXA Labropsis xanthonota Labropsis xanthonota 14 MI TRUE 1 1TRUE High
+173 LEAM Lethrinus amboinensis Lethrinus amboinensis 70 MI FALSE 1 1FALSE Very low
+174 LEER  Lethrinus erythracanthus 70 MI FALSE 1 1FALSE Very low
+175 LEHA Lethrinus harak Lethrinus harak 32 MI FALSE 1 1FALSE Very low
+176 LEOB Lethrinus obsoletus Lethrinus obsoletus 50 MI FALSE 1 1FALSE Very low
+177 LEOL Lethrinus olivaceus Lethrinus olivaceus 100 Pisc FALSE 1 1FALSE Very low
+178 LERU Lethrinus rubrioperculatus Lethrinus rubrioperculatus 39.5 MI FALSE 1 1FALSE Very low
+179 LETA Lepidozygus tapeinosoma Lepidozygus tapeinosoma 10 Pk TRUE 1 1TRUE High
+180 LETH  Lethrinus sp 86 MI FALSE 1 1FALSE Very low
+181 LEXA Lethrinus xanthochilus Lethrinus xanthochilus 62 Pisc FALSE 1 1FALSE Very low
+182 LIZA  Synodontidae 22 Pisc FALSE 1 1FALSE Very low
+183 LUBO Lutjanus bohar Lutjanus bohar 90 Pisc FALSE 1 1FALSE Very low
+184 LUGI Lutjanus gibbus Lutjanus gibbus 53 MI FALSE 1 1FALSE Very low
+185 LUMO Lutjanus monostigma Lutjanus monostigma 60 Pisc FALSE 1 1FALSE Very low
+186 MALA Malacanthus latovittatus Malacanthus latovittatus 45 MI FALSE 1 1FALSE Very low
+187 MAMA Macolor macularis Macolor macularis 60 Pk FALSE 1 1FALSE Very low
+188 MAME Macropharyngodon meleagris Macropharyngodon meleagris 15 MI TRUE 1 1TRUE High
+189 MANE Macropharyngodon negrosensis Macropharyngodon negrosensis 12 MI TRUE 1 1TRUE High
+190 MANI Macolor niger Macolor niger 75 Pk FALSE 1 1FALSE Very low
+191 MEAT Meiacanthus atrodorsalis Meiacanthus atrodorsalis 10 Pk TRUE 1 1TRUE High
+192 MYAD Myripristis adusta Myripristis adusta 32 Pk FALSE 1 1FALSE Very low
+193 MYMU Myripristis murdjan Myripristis murdjan 60 Pk FALSE 1 1FALSE Very low
+194 MYSP  Myripristinae 35 Pk FALSE 1 1FALSE Very low
+195 MYVL Myripristis violacea Myripristis violacea 30 MI FALSE 1 1FALSE Very low
+196 NABH Naso brachycentron Naso brachycentron 90 H FALSE 0 0FALSE Negligible
+197 NATO Naso tonganus Naso tonganus 63 H FALSE 0 0FALSE Negligible
+198 NAVL Naso vlamingii Naso vlamingii 60 Pk FALSE 1 1FALSE Very low
+199 NEME Neopomacentrus metallicus Neopomacentrus metallicus 8 Pk TRUE 1 1TRUE High
+200 NEOP Neoniphon opercularis Neoniphon opercularis 35 MI FALSE 1 1FALSE Very low
+201 NESP  Neoniphon sp 35 MI FALSE 1 1FALSE Very low
+202 ODNI Odonus niger Odonus niger 40 Pk FALSE 1 1FALSE Very low
+203 OSCU Ostracion cubicus Ostracion cubicus 45 H FALSE 0 0FALSE Negligible
+204 OXDI Oxycheilinus digramma Oxycheilinus digramma 30 Pisc FALSE 1 1FALSE Very low
+205 OXLO Oxymonacanthus longirostris Oxymonacanthus longirostris 9 Cor TRUE 2 2TRUE Very high
+206 OXRH Oxycheilinus rhodochrous Oxycheilinus rhodochrous 20 MI FALSE 1 1FALSE Very low
+207 OXSP  Oxycheilinus sp 46 MI FALSE 1 1FALSE Very low
+208 PABA Parupeneus barberinus Parupeneus barberinus 50 MI FALSE 1 1FALSE Very low
+209 PACL Parapercis clathrata Parapercis clathrata 18 MI TRUE 1 1TRUE High
+210 PACR Parupeneus crassilabris Parupeneus crassilabris 35 MI FALSE 1 1FALSE Very low
+211 PAEN Paragobiodon echinocephalus Paragobiodon echinocephalus 4 MI TRUE 1 1TRUE High
+212 PAHE Paracirrhites hemistictus Paracirrhites hemistictus 28 Pisc FALSE 1 1FALSE Very low
+213 PAHP Paracanthurus hepatus Paracanthurus hepatus 31 Pk FALSE 1 1FALSE Very low
+214 PAIN Parupeneus insularis Parupeneus insularis 33 MI FALSE 1 1FALSE Very low
+215 PAMI Parapercis millepunctata Parapercis millepunctata 19 MI TRUE 1 1TRUE High
+216 PARR  Scaridae 68 H FALSE 0 0FALSE Negligible
+217 PEJA Pervagor janthinosoma Pervagor janthinosoma 13.5 Om TRUE 1 1TRUE High
+218 PEOU Pempheris oualensis Pempheris oualensis 23 Pk FALSE 1 1FALSE Very low
+219 PIPO  Pictichromis porphyreus 7 MI TRUE 1 1TRUE High
+220 PLAL Plectropomus areolatus Plectropomus areolatus 73 Pisc FALSE 1 1FALSE Very low
+221 PLDI Plectroglyphidodon dickii Plectroglyphidodon dickii 11 Cor TRUE 2 2TRUE Very high
+222 PLGI Plectorhinchus gibbosus Plectorhinchus gibbosus 75 MI FALSE 1 1FALSE Very low
+223 PLLA Plectroglyphidodon lacrymatus Plectroglyphidodon lacrymatus 10 Pk TRUE 1 1TRUE High
+224 PLLD Plagiotremus laudandus laudandus Plagiotremus laudandus laudandus 10 Par TRUE 1 1TRUE High
+225 PLLE Plectroglyphidodon leucozonus Plectroglyphidodon leucozonus 12 H TRUE 0 0TRUE Medium
+226 PLLV Plectropomus laevis Plectropomus laevis 125 Pisc FALSE 1 1FALSE Very low
+227 PLOR Platax orbicularis Platax orbicularis 50 Om FALSE 1 1FALSE Very low
+228 PLPH Plectroglyphidodon phoenixensis Plectroglyphidodon phoenixensis 8.5 H TRUE 0 0TRUE Medium
+229 PLRH Plagiotremus rhinorhynchos Plagiotremus rhinorhynchos 10 Par TRUE 1 1TRUE High
+230 PLTA Plagiotremus tapeinosoma Plagiotremus tapeinosoma 10 Par TRUE 1 1TRUE High
+231 PLTE Platax teira Platax teira 70 Om FALSE 1 1FALSE Very low
+232 PLVI Plectorhinchus vittatus Plectorhinchus vittatus 85 MI FALSE 1 1FALSE Very low
+233 POBR Pomacentrus brachialis Pomacentrus brachialis 10 Pk TRUE 1 1TRUE High
+234 POCO Pomacentrus coelestis Pomacentrus coelestis 7 Pk TRUE 1 1TRUE High
+235 POIM Pomacanthus imperator Pomacanthus imperator 38 SI FALSE 1 1FALSE Very low
+236 PONR  Pomacentrus nigriradiatus 10 Pk TRUE 1 1TRUE High
+237 POPA Pomacentrus pavo Pomacentrus pavo 11 Pk TRUE 1 1TRUE High
+238 POPH  Pomacentrus philippinus 10 Pk TRUE 1 1TRUE High
+239 PORI Pomachromis richardsoni Pomachromis richardsoni 6 Pk TRUE 1 1TRUE High
+240 POVA Pomacentrus vaiuli Pomacentrus vaiuli 10 Pk TRUE 1 1TRUE High
+241 PSCO Pseudanthias cooperi Pseudanthias cooperi 14 Pk TRUE 1 1TRUE High
+242 PSFL Pseudobalistes flavimarginatus Pseudobalistes flavimarginatus 60 MI FALSE 1 1FALSE Very low
+243 PSHE Pseudocheilinus hexataenia Pseudocheilinus hexataenia 8 MI TRUE 1 1TRUE High
+244 PSJA Pseudochromis jamesi Pseudochromis jamesi 5.5 MI TRUE 1 1TRUE High
+245 PSMO Pseudodax moluccanus Pseudodax moluccanus 26 MI FALSE 1 1FALSE Very low
+246 PSOL Pseudanthias olivaceus Pseudanthias olivaceus 12 Pk TRUE 1 1TRUE High
+247 PSPA Pseudanthias pascalus Pseudanthias pascalus 17 Pk TRUE 1 1TRUE High
+248 PTCR Pteragogus cryptus Pteragogus cryptus 9.5 MI TRUE 1 1TRUE High
+249 PTEV Ptereleotris evides Ptereleotris evides 18 Pk TRUE 1 1TRUE High
+250 PTMA Pterocaesio marri Pterocaesio marri 35 Pk FALSE 1 1FALSE Very low
+251 PTTI Pterocaesio tile Pterocaesio tile 30 Pk FALSE 1 1FALSE Very low
+252 PTTR Pterocaesio trilineata Pterocaesio trilineata 20 Pk FALSE 1 1FALSE Very low
+253 PTZE Ptereleotris zebra Ptereleotris zebra 12 Pk TRUE 1 1TRUE High
+254 PYDI Pygoplites diacanthus Pygoplites diacanthus 25 SI FALSE 1 1FALSE Very low
+255 RABB  Siganidae 38 H FALSE 0 0FALSE Negligible
+256 RHLU Rhinecanthus lunula Rhinecanthus lunula 28 MI FALSE 1 1FALSE Very low
+257 SACA Sargocentron caudimaculatum Sargocentron caudimaculatum 25 MI FALSE 1 1FALSE Very low
+258 SAMI Sargocentron microstoma Sargocentron microstoma 20 MI FALSE 1 1FALSE Very low
+259 SAPP  Sargocentron sp 50 MI FALSE 1 1FALSE Very low
+260 SCAL Scarus altipinnis Scarus altipinnis 60 H FALSE 0 0FALSE Negligible
+261 SCDM Scarus dimidiatus Scarus dimidiatus 50 H FALSE 0 0FALSE Negligible
+262 SCFE Scarus festivus Scarus festivus 45 H FALSE 0 0FALSE Negligible
+263 SCFO Scarus forsteni Scarus forsteni 55 H FALSE 0 0FALSE Negligible
+264 SCFR Scarus frenatus Scarus frenatus 47 H FALSE 0 0FALSE Negligible
+265 SCGH Scarus ghobban Scarus ghobban 90 H FALSE 0 0FALSE Negligible
+266 SCGL Scarus globiceps Scarus globiceps 31 H FALSE 0 0FALSE Negligible
+267 SCNI Scarus niger Scarus niger 43 H FALSE 0 0FALSE Negligible
+268 SCOV Scarus oviceps Scarus oviceps 38 H FALSE 0 0FALSE Negligible
+269 SCPP  Scorpaenopsis sp 30 Pisc FALSE 1 1FALSE Very low
+270 SCSC Scarus schlegeli Scarus schlegeli 38 H FALSE 0 0FALSE Negligible
+271 SCSI Scarus spinus Scarus spinus 31 H FALSE 0 0FALSE Negligible
+272 SCTR Scarus tricolor Scarus tricolor 55 H FALSE 0 0FALSE Negligible
+273 SESP  Sebastapistes sp 10 Pisc TRUE 1 1TRUE High
+274 SIAR Siganus argenteus Siganus argenteus 42 H FALSE 0 0FALSE Negligible
+275 SNDP  Parapercis sp 23 MI FALSE 1 1FALSE Very low
+276 SOLD  Holocentridae 31.5 MI FALSE 1 1FALSE Very low
+277 SPDE Spratelloides delicatulus Spratelloides delicatulus 7 Pk TRUE 1 1TRUE High
+278 SPFL  Sphyraena flavicauda 60 Pisc FALSE 1 1FALSE Very low
+279 SPHE Sphyraena helleri Sphyraena helleri 80 Pisc FALSE 1 1FALSE Very low
+280 SPQE Sphyraena qenie Sphyraena qenie 170 Pisc FALSE 1 1FALSE Very low
+281 STAL Stegastes albifasciatus Stegastes albifasciatus 11 H TRUE 0 0TRUE Medium
+282 STBN Stethojulis bandanensis Stethojulis bandanensis 16 Pk TRUE 1 1TRUE High
+283 STLI Stegastes lividus Stegastes lividus 13 H TRUE 0 0TRUE Medium
+284 STNI Stegastes nigricans Stegastes nigricans 14 H TRUE 0 0TRUE Medium
+285 STSP  Stegastes sp 15.5 H TRUE 0 0TRUE Medium
+286 STST Stethojulis strigiventer Stethojulis strigiventer 15 MI TRUE 1 1TRUE High
+287 STTR Stethojulis trilineata Stethojulis trilineata 15 MI TRUE 1 1TRUE High
+288 SUCH Sufflamen chrysopterum Sufflamen chrysopterum 22 MI FALSE 1 1FALSE Very low
+289 SURG  Acanthuridae 70 H FALSE 0 0FALSE Negligible
+290 THAM Thalassoma amblycephalum Thalassoma amblycephalum 15 Pk TRUE 1 1TRUE High
+291 THHA Thalassoma hardwicke Thalassoma hardwicke 20 Pk FALSE 1 1FALSE Very low
+292 THNI Thalassoma nigrofasciatum Thalassoma nigrofasciatum 20 MI FALSE 1 1FALSE Very low
+293 THSP  Thalassoma sp 17.6 MI TRUE 1 1TRUE High
+294 TRCA Trimma caesiura Trimma caesiura 3.5 MI TRUE 1 1TRUE High
+295 UPTA Upeneus taeniopterus Upeneus taeniopterus 33 MI FALSE 1 1FALSE Very low
+296 VAAL Variola albimarginata Variola albimarginata 65 Pisc FALSE 1 1FALSE Very low
+297 VALO Variola louti Variola louti 83 Pisc FALSE 1 1FALSE Very low
+298 VAST Valenciennea strigata Valenciennea strigata 16 MI TRUE 1 1TRUE High
+299 WENI Wetmorella nigropinnata Wetmorella nigropinnata 8 MI TRUE 1 1TRUE High
+300 WRAS  Labridae 93 MI FALSE 1 1FALSE Very low
+301 ZERO Zebrasoma rostratum Zebrasoma rostratum 21 H FALSE 0 0FALSE Negligible
+302 ZESC Zebrasoma scopas Zebrasoma scopas 20 H FALSE 0 0FALSE Negligible
